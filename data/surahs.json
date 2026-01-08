@@ -1,6 +1,4357 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "surahs": [
+    {
+      "id": "an-naba",
+      "name": "An-Naba'",
+      "nameArabic": "النبأ",
+      "meaning": "Berita Besar",
+      "verses": [
+        {
+          "id": 1,
+          "words": [
+            {
+              "id": "naba-1-1",
+              "arabic": "عَمَّ",
+              "latin": "'Amma",
+              "meaning": "Tentang apakah"
+            },
+            {
+              "id": "naba-1-2",
+              "arabic": "يَتَسَآءَلُونَ",
+              "latin": "Yatasa'aluna",
+              "meaning": "mereka saling bertanya-tanya"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "words": [
+            {
+              "id": "naba-2-1",
+              "arabic": "عَنِ",
+              "latin": "'Ani",
+              "meaning": "Tentang"
+            },
+            {
+              "id": "naba-2-2",
+              "arabic": "ٱلنَّبَإِ",
+              "latin": "An-naba'i",
+              "meaning": "berita"
+            },
+            {
+              "id": "naba-2-3",
+              "arabic": "ٱلْعَظِيمِ",
+              "latin": "Al-'azimi",
+              "meaning": "yang besar"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "words": [
+            {
+              "id": "naba-3-1",
+              "arabic": "ٱلَّذِى",
+              "latin": "Allazhi",
+              "meaning": "yang"
+            },
+            {
+              "id": "naba-3-2",
+              "arabic": "هُمْ",
+              "latin": "Hum",
+              "meaning": "mereka"
+            },
+            {
+              "id": "naba-3-3",
+              "arabic": "فِيهِ",
+              "latin": "Fihi",
+              "meaning": "di dalamnya"
+            },
+            {
+              "id": "naba-3-4",
+              "arabic": "مُخْتَلِفُونَ",
+              "latin": "Mukhtalifuna",
+              "meaning": "berselisih"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "words": [
+            {
+              "id": "naba-4-1",
+              "arabic": "كَلَّا",
+              "latin": "Kalla",
+              "meaning": "Sekali-kali tidak"
+            },
+            {
+              "id": "naba-4-2",
+              "arabic": "سَيَعْلَمُونَ",
+              "latin": "Saya'lamuna",
+              "meaning": "kelak mereka akan mengetahui"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "words": [
+            {
+              "id": "naba-5-1",
+              "arabic": "ثُمَّ",
+              "latin": "Thumma",
+              "meaning": "Kemudian"
+            },
+            {
+              "id": "naba-5-2",
+              "arabic": "كَلَّا",
+              "latin": "Kalla",
+              "meaning": "sekali-kali tidak"
+            },
+            {
+              "id": "naba-5-3",
+              "arabic": "سَيَعْلَمُونَ",
+              "latin": "Saya'lamuna",
+              "meaning": "kelak mereka akan mengetahui"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "words": [
+            {
+              "id": "naba-6-1",
+              "arabic": "أَلَمْ",
+              "latin": "Alam",
+              "meaning": "Bukankah"
+            },
+            {
+              "id": "naba-6-2",
+              "arabic": "نَجْعَلِ",
+              "latin": "Naj'ali",
+              "meaning": "Kami telah menjadikan"
+            },
+            {
+              "id": "naba-6-3",
+              "arabic": "ٱلْأَرْضَ",
+              "latin": "Al-arda",
+              "meaning": "bumi"
+            },
+            {
+              "id": "naba-6-4",
+              "arabic": "مِهَٰدًا",
+              "latin": "Mihadan",
+              "meaning": "hamparan"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "words": [
+            {
+              "id": "naba-7-1",
+              "arabic": "وَٱلْجِبَالَ",
+              "latin": "Wal-jibala",
+              "meaning": "Dan gunung-gunung"
+            },
+            {
+              "id": "naba-7-2",
+              "arabic": "أَوْتَادًا",
+              "latin": "Awtadan",
+              "meaning": "sebagai pasak"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "words": [
+            {
+              "id": "naba-8-1",
+              "arabic": "وَخَلَقْنَٰكُمْ",
+              "latin": "Wa khalaqnakum",
+              "meaning": "Dan Kami menciptakan kamu"
+            },
+            {
+              "id": "naba-8-2",
+              "arabic": "أَزْوَٰجًا",
+              "latin": "Azwajan",
+              "meaning": "berpasang-pasangan"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "words": [
+            {
+              "id": "naba-9-1",
+              "arabic": "وَجَعَلْنَا",
+              "latin": "Wa ja'alna",
+              "meaning": "Dan Kami menjadikan"
+            },
+            {
+              "id": "naba-9-2",
+              "arabic": "نَوْمَكُمْ",
+              "latin": "Nawmakum",
+              "meaning": "tidurmu"
+            },
+            {
+              "id": "naba-9-3",
+              "arabic": "سُبَاتًا",
+              "latin": "Subatan",
+              "meaning": "untuk istirahat"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "words": [
+            {
+              "id": "naba-10-1",
+              "arabic": "وَجَعَلْنَا",
+              "latin": "Wa ja'alna",
+              "meaning": "Dan Kami menjadikan"
+            },
+            {
+              "id": "naba-10-2",
+              "arabic": "ٱلَّيْلَ",
+              "latin": "Al-layla",
+              "meaning": "malam"
+            },
+            {
+              "id": "naba-10-3",
+              "arabic": "لِبَاسًا",
+              "latin": "Libasan",
+              "meaning": "sebagai pakaian"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "words": [
+            {
+              "id": "naba-11-1",
+              "arabic": "وَجَعَلْنَا",
+              "latin": "Wa ja'alna",
+              "meaning": "Dan Kami menjadikan"
+            },
+            {
+              "id": "naba-11-2",
+              "arabic": "ٱلنَّهَارَ",
+              "latin": "An-nahara",
+              "meaning": "siang"
+            },
+            {
+              "id": "naba-11-3",
+              "arabic": "مَعَاشًا",
+              "latin": "Ma'ashan",
+              "meaning": "untuk mencari penghidupan"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "words": [
+            {
+              "id": "naba-12-1",
+              "arabic": "وَبَنَيْنَا",
+              "latin": "Wa banayna",
+              "meaning": "Dan Kami membangun"
+            },
+            {
+              "id": "naba-12-2",
+              "arabic": "فَوْقَكُمْ",
+              "latin": "Fawqakum",
+              "meaning": "di atas kamu"
+            },
+            {
+              "id": "naba-12-3",
+              "arabic": "سَبْعًا",
+              "latin": "Sab'an",
+              "meaning": "tujuh (langit)"
+            },
+            {
+              "id": "naba-12-4",
+              "arabic": "شِدَادًا",
+              "latin": "Shidadan",
+              "meaning": "yang kokoh"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "words": [
+            {
+              "id": "naba-13-1",
+              "arabic": "وَجَعَلْنَا",
+              "latin": "Wa ja'alna",
+              "meaning": "Dan Kami menjadikan"
+            },
+            {
+              "id": "naba-13-2",
+              "arabic": "سِرَاجًا",
+              "latin": "Sirajan",
+              "meaning": "pelita"
+            },
+            {
+              "id": "naba-13-3",
+              "arabic": "وَهَّاجًا",
+              "latin": "Wahhajan",
+              "meaning": "yang amat terang (matahari)"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "words": [
+            {
+              "id": "naba-14-1",
+              "arabic": "وَأَنزَلْنَا",
+              "latin": "Wa anzalna",
+              "meaning": "Dan Kami turunkan"
+            },
+            {
+              "id": "naba-14-2",
+              "arabic": "مِنَ",
+              "latin": "Mina",
+              "meaning": "dari"
+            },
+            {
+              "id": "naba-14-3",
+              "arabic": "ٱلْمُعْصِرَٰتِ",
+              "latin": "Al-mu'sirati",
+              "meaning": "awan"
+            },
+            {
+              "id": "naba-14-4",
+              "arabic": "مَآءً",
+              "latin": "Ma'an",
+              "meaning": "air"
+            },
+            {
+              "id": "naba-14-5",
+              "arabic": "ثَجَّاجًا",
+              "latin": "Thajjajan",
+              "meaning": "yang tercurah"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "words": [
+            {
+              "id": "naba-15-1",
+              "arabic": "لِّنُخْرِجَ",
+              "latin": "Linukhrija",
+              "meaning": "Supaya Kami tumbuhkan"
+            },
+            {
+              "id": "naba-15-2",
+              "arabic": "بِهِۦ",
+              "latin": "Bihi",
+              "meaning": "dengannya"
+            },
+            {
+              "id": "naba-15-3",
+              "arabic": "حَبًّا",
+              "latin": "Habban",
+              "meaning": "biji-bijian"
+            },
+            {
+              "id": "naba-15-4",
+              "arabic": "وَنَبَاتًا",
+              "latin": "Wa nabatan",
+              "meaning": "dan tumbuh-tumbuhan"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "words": [
+            {
+              "id": "naba-16-1",
+              "arabic": "وَجَنَّٰتٍ",
+              "latin": "Wa jannatin",
+              "meaning": "Dan kebun-kebun"
+            },
+            {
+              "id": "naba-16-2",
+              "arabic": "أَلْفَافًا",
+              "latin": "Alfafan",
+              "meaning": "yang lebat"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "words": [
+            {
+              "id": "naba-17-1",
+              "arabic": "إِنَّ",
+              "latin": "Inna",
+              "meaning": "Sesungguhnya"
+            },
+            {
+              "id": "naba-17-2",
+              "arabic": "يَوْمَ",
+              "latin": "Yawma",
+              "meaning": "hari"
+            },
+            {
+              "id": "naba-17-3",
+              "arabic": "ٱلْفَصْلِ",
+              "latin": "Al-fasli",
+              "meaning": "keputusan"
+            },
+            {
+              "id": "naba-17-4",
+              "arabic": "كَانَ",
+              "latin": "Kana",
+              "meaning": "adalah"
+            },
+            {
+              "id": "naba-17-5",
+              "arabic": "مِيقَٰتًا",
+              "latin": "Miqatan",
+              "meaning": "waktu yang ditetapkan"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "words": [
+            {
+              "id": "naba-18-1",
+              "arabic": "يَوْمَ",
+              "latin": "Yawma",
+              "meaning": "Yaitu hari"
+            },
+            {
+              "id": "naba-18-2",
+              "arabic": "يُنفَخُ",
+              "latin": "Yunfakhu",
+              "meaning": "ditiup"
+            },
+            {
+              "id": "naba-18-3",
+              "arabic": "فِى",
+              "latin": "Fi",
+              "meaning": "pada"
+            },
+            {
+              "id": "naba-18-4",
+              "arabic": "ٱلصُّورِ",
+              "latin": "As-suri",
+              "meaning": "sangkakala"
+            },
+            {
+              "id": "naba-18-5",
+              "arabic": "فَتَأْتُونَ",
+              "latin": "Fata'tuna",
+              "meaning": "maka kamu datang"
+            },
+            {
+              "id": "naba-18-6",
+              "arabic": "أَفْوَاجًا",
+              "latin": "Afwajan",
+              "meaning": "berkelompok-kelompok"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "words": [
+            {
+              "id": "naba-19-1",
+              "arabic": "وَفُتِحَتِ",
+              "latin": "Wa futihat",
+              "meaning": "Dan dibuka"
+            },
+            {
+              "id": "naba-19-2",
+              "arabic": "ٱلسَّمَآءُ",
+              "latin": "As-sama'u",
+              "meaning": "langit"
+            },
+            {
+              "id": "naba-19-3",
+              "arabic": "فَكَانَتْ",
+              "latin": "Fakanat",
+              "meaning": "maka terdapatlah"
+            },
+            {
+              "id": "naba-19-4",
+              "arabic": "أَبْوَٰبًا",
+              "latin": "Abwaban",
+              "meaning": "pintu-pintu"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "words": [
+            {
+              "id": "naba-20-1",
+              "arabic": "وَسُيِّرَتِ",
+              "latin": "Wa suyyirat",
+              "meaning": "Dan dijalankan"
+            },
+            {
+              "id": "naba-20-2",
+              "arabic": "ٱلْجِبَالُ",
+              "latin": "Al-jibalu",
+              "meaning": "gunung-gunung"
+            },
+            {
+              "id": "naba-20-3",
+              "arabic": "فَكَانَتْ",
+              "latin": "Fakanat",
+              "meaning": "maka menjadilah ia"
+            },
+            {
+              "id": "naba-20-4",
+              "arabic": "سَرَابًا",
+              "latin": "Saraban",
+              "meaning": "fatamorgana"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "words": [
+            {
+              "id": "naba-21-1",
+              "arabic": "إِنَّ",
+              "latin": "Inna",
+              "meaning": "Sesungguhnya"
+            },
+            {
+              "id": "naba-21-2",
+              "arabic": "جَهَنَّمَ",
+              "latin": "Jahannama",
+              "meaning": "neraka Jahannam"
+            },
+            {
+              "id": "naba-21-3",
+              "arabic": "كَانَتْ",
+              "latin": "Kanat",
+              "meaning": "adalah"
+            },
+            {
+              "id": "naba-21-4",
+              "arabic": "مِرْصَادًا",
+              "latin": "Mirsadan",
+              "meaning": "tempat mengintai"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "words": [
+            {
+              "id": "naba-22-1",
+              "arabic": "لِّلطَّٰغِينَ",
+              "latin": "Lil-taghina",
+              "meaning": "Bagi orang-orang yang melampaui batas"
+            },
+            {
+              "id": "naba-22-2",
+              "arabic": "مَـَٔابًا",
+              "latin": "Ma'aban",
+              "meaning": "tempat kembali"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "words": [
+            {
+              "id": "naba-23-1",
+              "arabic": "لَّٰبِثِينَ",
+              "latin": "Labithina",
+              "meaning": "mereka tinggal"
+            },
+            {
+              "id": "naba-23-2",
+              "arabic": "فِيهَآ",
+              "latin": "Fiha",
+              "meaning": "di dalamnya"
+            },
+            {
+              "id": "naba-23-3",
+              "arabic": "أَحْقَابًا",
+              "latin": "Ahqaban",
+              "meaning": "berabad-abad lamanya"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "words": [
+            {
+              "id": "naba-24-1",
+              "arabic": "لَّا",
+              "latin": "La",
+              "meaning": "Tidak"
+            },
+            {
+              "id": "naba-24-2",
+              "arabic": "يَذُوقُونَ",
+              "latin": "Yazhuquna",
+              "meaning": "mereka merasakan"
+            },
+            {
+              "id": "naba-24-3",
+              "arabic": "فِيهَا",
+              "latin": "Fiha",
+              "meaning": "di dalamnya"
+            },
+            {
+              "id": "naba-24-4",
+              "arabic": "بَرْدًا",
+              "latin": "Bardan",
+              "meaning": "kesejukan"
+            },
+            {
+              "id": "naba-24-5",
+              "arabic": "وَلَا",
+              "latin": "Wa la",
+              "meaning": "dan tidak (pula)"
+            },
+            {
+              "id": "naba-24-6",
+              "arabic": "شَرَابًا",
+              "latin": "Sharaban",
+              "meaning": "minuman"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "words": [
+            {
+              "id": "naba-25-1",
+              "arabic": "إِلَّا",
+              "latin": "Illa",
+              "meaning": "kecuali"
+            },
+            {
+              "id": "naba-25-2",
+              "arabic": "حَمِيمًا",
+              "latin": "Hamiman",
+              "meaning": "air yang mendidih"
+            },
+            {
+              "id": "naba-25-3",
+              "arabic": "وَغَسَّاقًا",
+              "latin": "Wa ghassaqan",
+              "meaning": "dan nanah"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "words": [
+            {
+              "id": "naba-26-1",
+              "arabic": "جَزَآءً",
+              "latin": "Jaza'an",
+              "meaning": "sebagai pembalasan"
+            },
+            {
+              "id": "naba-26-2",
+              "arabic": "وِفَاقًا",
+              "latin": "Wifaqan",
+              "meaning": "yang setimpal"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "words": [
+            {
+              "id": "naba-27-1",
+              "arabic": "إِنَّهُمْ",
+              "latin": "Innahum",
+              "meaning": "Sesungguhnya mereka"
+            },
+            {
+              "id": "naba-27-2",
+              "arabic": "كَانُوا۟",
+              "latin": "Kanu",
+              "meaning": "dahulu"
+            },
+            {
+              "id": "naba-27-3",
+              "arabic": "لَا",
+              "latin": "La",
+              "meaning": "tidak"
+            },
+            {
+              "id": "naba-27-4",
+              "arabic": "يَرْجُونَ",
+              "latin": "Yarjuna",
+              "meaning": "takut akan"
+            },
+            {
+              "id": "naba-27-5",
+              "arabic": "حِسَابًا",
+              "latin": "Hisaban",
+              "meaning": "hisab (perhitungan)"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "words": [
+            {
+              "id": "naba-28-1",
+              "arabic": "وَكَذَّبُوا۟",
+              "latin": "Wa kazzabu",
+              "meaning": "Dan mereka mendustakan"
+            },
+            {
+              "id": "naba-28-2",
+              "arabic": "بِـَٔايَٰتِنَا",
+              "latin": "Bi ayatina",
+              "meaning": "ayat-ayat Kami"
+            },
+            {
+              "id": "naba-28-3",
+              "arabic": "كِذَّابًا",
+              "latin": "Kizzaban",
+              "meaning": "dengan sungguh-sungguh"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "words": [
+            {
+              "id": "naba-29-1",
+              "arabic": "وَكُلَّ",
+              "latin": "Wa kulla",
+              "meaning": "Dan segala"
+            },
+            {
+              "id": "naba-29-2",
+              "arabic": "شَىْءٍ",
+              "latin": "Shay'in",
+              "meaning": "sesuatu"
+            },
+            {
+              "id": "naba-29-3",
+              "arabic": "أَحْصَيْنَٰهُ",
+              "latin": "Ahsaynahu",
+              "meaning": "Kami catat"
+            },
+            {
+              "id": "naba-29-4",
+              "arabic": "كِتَٰبًا",
+              "latin": "Kitaban",
+              "meaning": "dalam sebuah kitab"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "words": [
+            {
+              "id": "naba-30-1",
+              "arabic": "فَذُوقُوا۟",
+              "latin": "Fazuqu",
+              "meaning": "Maka rasakanlah"
+            },
+            {
+              "id": "naba-30-2",
+              "arabic": "فَلَن",
+              "latin": "Falan",
+              "meaning": "maka tidak akan"
+            },
+            {
+              "id": "naba-30-3",
+              "arabic": "نَّزِيدَكُمْ",
+              "latin": "Nazidakum",
+              "meaning": "Kami tambahkan kepadamu"
+            },
+            {
+              "id": "naba-30-4",
+              "arabic": "إِلَّا",
+              "latin": "Illa",
+              "meaning": "kecuali"
+            },
+            {
+              "id": "naba-30-5",
+              "arabic": "عَذَابًا",
+              "latin": "Azhaban",
+              "meaning": "azab"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "words": [
+            {
+              "id": "naba-31-1",
+              "arabic": "إِنَّ",
+              "latin": "Inna",
+              "meaning": "Sesungguhnya"
+            },
+            {
+              "id": "naba-31-2",
+              "arabic": "لِلْمُتَّقِينَ",
+              "latin": "Lil-muttaqina",
+              "meaning": "bagi orang-orang yang bertakwa"
+            },
+            {
+              "id": "naba-31-3",
+              "arabic": "مَفَازًا",
+              "latin": "Mafazan",
+              "meaning": "kemenangan"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "words": [
+            {
+              "id": "naba-32-1",
+              "arabic": "حَدَآئِقَ",
+              "latin": "Hada'iqa",
+              "meaning": "kebun-kebun"
+            },
+            {
+              "id": "naba-32-2",
+              "arabic": "وَأَعْنَٰبًا",
+              "latin": "Wa a'naban",
+              "meaning": "dan buah anggur"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "words": [
+            {
+              "id": "naba-33-1",
+              "arabic": "وَكَوَاعِبَ",
+              "latin": "Wa kawa'iba",
+              "meaning": "dan gadis-gadis remaja"
+            },
+            {
+              "id": "naba-33-2",
+              "arabic": "أَتْرَابًا",
+              "latin": "Atraban",
+              "meaning": "yang sebaya"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "words": [
+            {
+              "id": "naba-34-1",
+              "arabic": "وَكَأْسًا",
+              "latin": "Wa ka'san",
+              "meaning": "dan gelas-gelas"
+            },
+            {
+              "id": "naba-34-2",
+              "arabic": "دِهَاقًا",
+              "latin": "Dihaqan",
+              "meaning": "yang penuh (berisi minuman)"
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "words": [
+            {
+              "id": "naba-35-1",
+              "arabic": "لَّا",
+              "latin": "La",
+              "meaning": "Tidak"
+            },
+            {
+              "id": "naba-35-2",
+              "arabic": "يَسْمَعُونَ",
+              "latin": "Yasma'una",
+              "meaning": "mereka mendengar"
+            },
+            {
+              "id": "naba-35-3",
+              "arabic": "فِيهَا",
+              "latin": "Fiha",
+              "meaning": "di dalamnya"
+            },
+            {
+              "id": "naba-35-4",
+              "arabic": "لَغْوًا",
+              "latin": "Laghwan",
+              "meaning": "perkataan yang sia-sia"
+            },
+            {
+              "id": "naba-35-5",
+              "arabic": "وَلَا",
+              "latin": "Wa la",
+              "meaning": "dan tidak (pula)"
+            },
+            {
+              "id": "naba-35-6",
+              "arabic": "كِذَّٰبًا",
+              "latin": "Kizzaban",
+              "meaning": "perkataan dusta"
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "words": [
+            {
+              "id": "naba-36-1",
+              "arabic": "جَزَآءً",
+              "latin": "Jaza'an",
+              "meaning": "Sebagai balasan"
+            },
+            {
+              "id": "naba-36-2",
+              "arabic": "مِّن",
+              "latin": "Min",
+              "meaning": "dari"
+            },
+            {
+              "id": "naba-36-3",
+              "arabic": "رَّبِّكَ",
+              "latin": "Rabbika",
+              "meaning": "Tuhanmu"
+            },
+            {
+              "id": "naba-36-4",
+              "arabic": "عَطَآءً",
+              "latin": "Ata'an",
+              "meaning": "pemberian"
+            },
+            {
+              "id": "naba-36-5",
+              "arabic": "حِسَابًا",
+              "latin": "Hisaban",
+              "meaning": "yang cukup banyak"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "words": [
+            {
+              "id": "naba-37-1",
+              "arabic": "رَّبِّ",
+              "latin": "Rabbi",
+              "meaning": "Tuhan (yang memelihara)"
+            },
+            {
+              "id": "naba-37-2",
+              "arabic": "ٱلسَّمَٰوَٰتِ",
+              "latin": "As-samawati",
+              "meaning": "langit"
+            },
+            {
+              "id": "naba-37-3",
+              "arabic": "وَٱلْأَرْضِ",
+              "latin": "Wal-ardi",
+              "meaning": "dan bumi"
+            },
+            {
+              "id": "naba-37-4",
+              "arabic": "وَمَا",
+              "latin": "Wa ma",
+              "meaning": "dan apa yang"
+            },
+            {
+              "id": "naba-37-5",
+              "arabic": "بَيْنَهُمَا",
+              "latin": "Baynahuma",
+              "meaning": "ada di antara keduanya"
+            },
+            {
+              "id": "naba-37-6",
+              "arabic": "ٱلرَّحْمَٰنِ",
+              "latin": "Ar-rahmani",
+              "meaning": "Yang Maha Pemurah"
+            },
+            {
+              "id": "naba-37-7",
+              "arabic": "لَا",
+              "latin": "La",
+              "meaning": "tidak"
+            },
+            {
+              "id": "naba-37-8",
+              "arabic": "يَمْلِكُونَ",
+              "latin": "Yamlikuna",
+              "meaning": "mereka dapat"
+            },
+            {
+              "id": "naba-37-9",
+              "arabic": "مِنْهُ",
+              "latin": "Minhu",
+              "meaning": "di hadapan-Nya"
+            },
+            {
+              "id": "naba-37-10",
+              "arabic": "خِطَابًا",
+              "latin": "Khitaban",
+              "meaning": "berbicara"
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "words": [
+            {
+              "id": "naba-38-1",
+              "arabic": "يَوْمَ",
+              "latin": "Yawma",
+              "meaning": "Pada hari"
+            },
+            {
+              "id": "naba-38-2",
+              "arabic": "يَقُومُ",
+              "latin": "Yaqumu",
+              "meaning": "berdiri"
+            },
+            {
+              "id": "naba-38-3",
+              "arabic": "ٱلرُّوحُ",
+              "latin": "Ar-ruhu",
+              "meaning": "malaikat Jibril"
+            },
+            {
+              "id": "naba-38-4",
+              "arabic": "وَٱلْمَلَٰٓئِكَةُ",
+              "latin": "Wal-mala'ikatu",
+              "meaning": "dan para malaikat"
+            },
+            {
+              "id": "naba-38-5",
+              "arabic": "صَفًّا",
+              "latin": "Saffan",
+              "meaning": "bersaf-saf"
+            },
+            {
+              "id": "naba-38-6",
+              "arabic": "لَّا",
+              "latin": "La",
+              "meaning": "tidak"
+            },
+            {
+              "id": "naba-38-7",
+              "arabic": "يَتَكَلَّمُونَ",
+              "latin": "Yatakallamuna",
+              "meaning": "mereka berkata-kata"
+            },
+            {
+              "id": "naba-38-8",
+              "arabic": "إِلَّا",
+              "latin": "Illa",
+              "meaning": "kecuali"
+            },
+            {
+              "id": "naba-38-9",
+              "arabic": "مَنْ",
+              "latin": "Man",
+              "meaning": "siapa yang"
+            },
+            {
+              "id": "naba-38-10",
+              "arabic": "أَذِنَ",
+              "latin": "Azhina",
+              "meaning": "memberi izin"
+            },
+            {
+              "id": "naba-38-11",
+              "arabic": "لَهُ",
+              "latin": "Lahu",
+              "meaning": "kepadanya"
+            },
+            {
+              "id": "naba-38-12",
+              "arabic": "ٱلرَّحْمَٰنُ",
+              "latin": "Ar-rahmanu",
+              "meaning": "Tuhan Yang Maha Pemurah"
+            },
+            {
+              "id": "naba-38-13",
+              "arabic": "وَقَالَ",
+              "latin": "Wa qala",
+              "meaning": "dan dia mengucapkan"
+            },
+            {
+              "id": "naba-38-14",
+              "arabic": "صَوَابًا",
+              "latin": "Sawaban",
+              "meaning": "kata yang benar"
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "words": [
+            {
+              "id": "naba-39-1",
+              "arabic": "ذَٰلِكَ",
+              "latin": "Zhalika",
+              "meaning": "Itulah"
+            },
+            {
+              "id": "naba-39-2",
+              "arabic": "ٱلْيَوْمُ",
+              "latin": "Al-yawmu",
+              "meaning": "hari"
+            },
+            {
+              "id": "naba-39-3",
+              "arabic": "ٱلْحَقُّ",
+              "latin": "Al-haqqu",
+              "meaning": "yang pasti terjadi"
+            },
+            {
+              "id": "naba-39-4",
+              "arabic": "فَمَن",
+              "latin": "Faman",
+              "meaning": "maka barangsiapa"
+            },
+            {
+              "id": "naba-39-5",
+              "arabic": "شَآءَ",
+              "latin": "Sha'a",
+              "meaning": "yang menghendaki"
+            },
+            {
+              "id": "naba-39-6",
+              "arabic": "ٱتَّخَذَ",
+              "latin": "Ittakhazha",
+              "meaning": "niscaya ia menempuh"
+            },
+            {
+              "id": "naba-39-7",
+              "arabic": "إِلَىٰ",
+              "latin": "Ila",
+              "meaning": "kepada"
+            },
+            {
+              "id": "naba-39-8",
+              "arabic": "رَبِّهِۦ",
+              "latin": "Rabbihi",
+              "meaning": "Tuhannya"
+            },
+            {
+              "id": "naba-39-9",
+              "arabic": "مَـَٔابًا",
+              "latin": "Ma'aban",
+              "meaning": "jalan kembali"
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "words": [
+            {
+              "id": "naba-40-1",
+              "arabic": "إِنَّآ",
+              "latin": "Inna",
+              "meaning": "Sesungguhnya Kami"
+            },
+            {
+              "id": "naba-40-2",
+              "arabic": "أَنذَرْنَٰكُمْ",
+              "latin": "Anzharnakum",
+              "meaning": "telah memperingatkan kepadamu"
+            },
+            {
+              "id": "naba-40-3",
+              "arabic": "عَذَابًا",
+              "latin": "Azhaban",
+              "meaning": "siksa"
+            },
+            {
+              "id": "naba-40-4",
+              "arabic": "قَرِيبًا",
+              "latin": "Qariban",
+              "meaning": "yang dekat"
+            },
+            {
+              "id": "naba-40-5",
+              "arabic": "يَوْمَ",
+              "latin": "Yawma",
+              "meaning": "pada hari"
+            },
+            {
+              "id": "naba-40-6",
+              "arabic": "يَنظُرُ",
+              "latin": "Yanzuru",
+              "meaning": "melihat"
+            },
+            {
+              "id": "naba-40-7",
+              "arabic": "ٱلْمَرْءُ",
+              "latin": "Al-mar'u",
+              "meaning": "seseorang"
+            },
+            {
+              "id": "naba-40-8",
+              "arabic": "مَا",
+              "latin": "Ma",
+              "meaning": "apa yang"
+            },
+            {
+              "id": "naba-40-9",
+              "arabic": "قَدَّمَتْ",
+              "latin": "Qaddamat",
+              "meaning": "telah diperbuat"
+            },
+            {
+              "id": "naba-40-10",
+              "arabic": "يَدَاهُ",
+              "latin": "Yadahu",
+              "meaning": "kedua tangannya"
+            },
+            {
+              "id": "naba-40-11",
+              "arabic": "وَيَقُولُ",
+              "latin": "Wa yaqulu",
+              "meaning": "dan berkata"
+            },
+            {
+              "id": "naba-40-12",
+              "arabic": "ٱلْكَافِرُ",
+              "latin": "Al-kafiru",
+              "meaning": "orang kafir"
+            },
+            {
+              "id": "naba-40-13",
+              "arabic": "يَٰلَيْتَنِى",
+              "latin": "Ya laytani",
+              "meaning": "alangkah baiknya sekiranya aku"
+            },
+            {
+              "id": "naba-40-14",
+              "arabic": "كُنتُ",
+              "latin": "Kuntu",
+              "meaning": "aku dahulu adalah"
+            },
+            {
+              "id": "naba-40-15",
+              "arabic": "تُرَٰبًۢا",
+              "latin": "Turaban",
+              "meaning": "tanah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "an-naziat",
+      "name": "An-Nazi'at",
+      "nameArabic": "النازعات",
+      "meaning": "Malaikat-Malaikat Yang Mencabut",
+      "verses": [
+        {
+          "id": 1,
+          "words": [
+            {
+              "id": "naziat-1-1",
+              "arabic": "وَٱلنَّٰزِعَٰتِ",
+              "latin": "Wan-nazi'ati",
+              "meaning": "Demi (malaikat) yang mencabut (nyawa)"
+            },
+            {
+              "id": "naziat-1-2",
+              "arabic": "غَرْقًا",
+              "latin": "Gharqa",
+              "meaning": "dengan keras"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "words": [
+            {
+              "id": "naziat-2-1",
+              "arabic": "وَٱلنَّٰشِطَٰتِ",
+              "latin": "Wan-nashitati",
+              "meaning": "Dan (malaikat) yang mencabut (nyawa)"
+            },
+            {
+              "id": "naziat-2-2",
+              "arabic": "نَشْطًا",
+              "latin": "Nashta",
+              "meaning": "dengan lemah lembut"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "words": [
+            {
+              "id": "naziat-3-1",
+              "arabic": "وَٱلسَّٰبِحَٰتِ",
+              "latin": "Was-sabihati",
+              "meaning": "Dan (malaikat) yang turun"
+            },
+            {
+              "id": "naziat-3-2",
+              "arabic": "سَبْحًا",
+              "latin": "Sabha",
+              "meaning": "dengan cepat"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "words": [
+            {
+              "id": "naziat-4-1",
+              "arabic": "فَٱلسَّٰبِقَٰتِ",
+              "latin": "Fas-sabiqati",
+              "meaning": "Lalu yang mendahului"
+            },
+            {
+              "id": "naziat-4-2",
+              "arabic": "سَبْقًا",
+              "latin": "Sabqa",
+              "meaning": "dengan kencang"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "words": [
+            {
+              "id": "naziat-5-1",
+              "arabic": "فَٱلْمُدَبِّرَٰتِ",
+              "latin": "Fal-mudabbirati",
+              "meaning": "Dan yang mengatur"
+            },
+            {
+              "id": "naziat-5-2",
+              "arabic": "أَمْرًا",
+              "latin": "Amra",
+              "meaning": "urusan (dunia)"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "words": [
+            {
+              "id": "naziat-6-1",
+              "arabic": "يَوْمَ",
+              "latin": "Yawma",
+              "meaning": "Pada hari"
+            },
+            {
+              "id": "naziat-6-2",
+              "arabic": "تَرْجُفُ",
+              "latin": "Tarjufu",
+              "meaning": "bergetar"
+            },
+            {
+              "id": "naziat-6-3",
+              "arabic": "ٱلرَّاجِفَةُ",
+              "latin": "Ar-rajifah",
+              "meaning": "tiupan pertama (kiamat)"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "words": [
+            {
+              "id": "naziat-7-1",
+              "arabic": "تَتْبَعُهَا",
+              "latin": "Tatba'uha",
+              "meaning": "mengiringinya"
+            },
+            {
+              "id": "naziat-7-2",
+              "arabic": "ٱلرَّادِفَةُ",
+              "latin": "Ar-radifah",
+              "meaning": "tiupan kedua"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "words": [
+            {
+              "id": "naziat-8-1",
+              "arabic": "قُلُوبٌ",
+              "latin": "Qulubun",
+              "meaning": "Hati manusia"
+            },
+            {
+              "id": "naziat-8-2",
+              "arabic": "يَوْمَئِذٍ",
+              "latin": "Yawma'idhin",
+              "meaning": "pada hari itu"
+            },
+            {
+              "id": "naziat-8-3",
+              "arabic": "وَاجِفَةٌ",
+              "latin": "Wajifah",
+              "meaning": "sangat takut"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "words": [
+            {
+              "id": "naziat-9-1",
+              "arabic": "أَبْصَٰرُهَا",
+              "latin": "Absaruha",
+              "meaning": "pandangannya"
+            },
+            {
+              "id": "naziat-9-2",
+              "arabic": "خَٰشِعَةٌ",
+              "latin": "Khashi'ah",
+              "meaning": "tunduk"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "words": [
+            {
+              "id": "naziat-10-1",
+              "arabic": "يَقُولُونَ",
+              "latin": "Yaquluna",
+              "meaning": "Mereka berkata"
+            },
+            {
+              "id": "naziat-10-2",
+              "arabic": "أَءِنَّا",
+              "latin": "A-inna",
+              "meaning": "apakah sesungguhnya kami"
+            },
+            {
+              "id": "naziat-10-3",
+              "arabic": "لَمَرْدُودُونَ",
+              "latin": "Lamarduduna",
+              "meaning": "benar-benar dikembalikan"
+            },
+            {
+              "id": "naziat-10-4",
+              "arabic": "فِى",
+              "latin": "Fi",
+              "meaning": "kepada"
+            },
+            {
+              "id": "naziat-10-5",
+              "arabic": "ٱلْحَافِرَةِ",
+              "latin": "Al-hafirah",
+              "meaning": "kehidupan semula"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "words": [
+            {
+              "id": "naziat-11-1",
+              "arabic": "أَءِذَا",
+              "latin": "A-izha",
+              "meaning": "Apakah apabila"
+            },
+            {
+              "id": "naziat-11-2",
+              "arabic": "كُنَّا",
+              "latin": "Kunna",
+              "meaning": "kami telah menjadi"
+            },
+            {
+              "id": "naziat-11-3",
+              "arabic": "عِظَٰمًا",
+              "latin": "'Izaman",
+              "meaning": "tulang belulang"
+            },
+            {
+              "id": "naziat-11-4",
+              "arabic": "نَّخِرَةً",
+              "latin": "Nakhirah",
+              "meaning": "yang hancur"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "words": [
+            {
+              "id": "naziat-12-1",
+              "arabic": "قَالُوا۟",
+              "latin": "Qalu",
+              "meaning": "Mereka berkata"
+            },
+            {
+              "id": "naziat-12-2",
+              "arabic": "تِلْكَ",
+              "latin": "Tilka",
+              "meaning": "itu"
+            },
+            {
+              "id": "naziat-12-3",
+              "arabic": "إِذًا",
+              "latin": "Izhan",
+              "meaning": "kalau begitu"
+            },
+            {
+              "id": "naziat-12-4",
+              "arabic": "كَرَّةٌ",
+              "latin": "Karratun",
+              "meaning": "pengembalian"
+            },
+            {
+              "id": "naziat-12-5",
+              "arabic": "خَاسِرَةٌ",
+              "latin": "Khasirah",
+              "meaning": "yang merugikan"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "words": [
+            {
+              "id": "naziat-13-1",
+              "arabic": "فَإِنَّمَا",
+              "latin": "Fa innama",
+              "meaning": "Maka sesungguhnya"
+            },
+            {
+              "id": "naziat-13-2",
+              "arabic": "هِىَ",
+              "latin": "Hiya",
+              "meaning": "ia (pengembalian itu)"
+            },
+            {
+              "id": "naziat-13-3",
+              "arabic": "زَجْرَةٌ",
+              "latin": "Zajratun",
+              "meaning": "teriakan/tiupan"
+            },
+            {
+              "id": "naziat-13-4",
+              "arabic": "وَٰحِدَةٌ",
+              "latin": "Wahidah",
+              "meaning": "sekali saja"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "words": [
+            {
+              "id": "naziat-14-1",
+              "arabic": "فَإِذَا",
+              "latin": "Fa izha",
+              "meaning": "maka tiba-tiba"
+            },
+            {
+              "id": "naziat-14-2",
+              "arabic": "هُم",
+              "latin": "Hum",
+              "meaning": "mereka"
+            },
+            {
+              "id": "naziat-14-3",
+              "arabic": "بِٱلسَّاهِرَةِ",
+              "latin": "Bis-sahirah",
+              "meaning": "di padang Mahsyar (permukaan bumi)"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "words": [
+            {
+              "id": "naziat-15-1",
+              "arabic": "هَلْ",
+              "latin": "Hal",
+              "meaning": "Sudahkah"
+            },
+            {
+              "id": "naziat-15-2",
+              "arabic": "أَتَىٰكَ",
+              "latin": "Ataka",
+              "meaning": "datang kepadamu"
+            },
+            {
+              "id": "naziat-15-3",
+              "arabic": "حَدِيثُ",
+              "latin": "Hadithu",
+              "meaning": "kisah"
+            },
+            {
+              "id": "naziat-15-4",
+              "arabic": "مُوسَىٰ",
+              "latin": "Musa",
+              "meaning": "Musa"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "words": [
+            {
+              "id": "naziat-16-1",
+              "arabic": "إِذْ",
+              "latin": "Izh",
+              "meaning": "Ketika"
+            },
+            {
+              "id": "naziat-16-2",
+              "arabic": "نَادَىٰهُ",
+              "latin": "Nadahu",
+              "meaning": "memanggilnya"
+            },
+            {
+              "id": "naziat-16-3",
+              "arabic": "رَبُّهُۥ",
+              "latin": "Rabbuhu",
+              "meaning": "Tuhannya"
+            },
+            {
+              "id": "naziat-16-4",
+              "arabic": "بِٱلْوَادِ",
+              "latin": "Bil-wadi",
+              "meaning": "di lembah"
+            },
+            {
+              "id": "naziat-16-5",
+              "arabic": "ٱلْمُقَدَّسِ",
+              "latin": "Al-muqaddasi",
+              "meaning": "yang suci"
+            },
+            {
+              "id": "naziat-16-6",
+              "arabic": "طُوًى",
+              "latin": "Tuwa",
+              "meaning": "Tuwa"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "words": [
+            {
+              "id": "naziat-17-1",
+              "arabic": "ٱذْهَبْ",
+              "latin": "Izhhab",
+              "meaning": "Pergilah kamu"
+            },
+            {
+              "id": "naziat-17-2",
+              "arabic": "إِلَىٰ",
+              "latin": "Ila",
+              "meaning": "kepada"
+            },
+            {
+              "id": "naziat-17-3",
+              "arabic": "فِرْعَوْنَ",
+              "latin": "Fir'awna",
+              "meaning": "Firaun"
+            },
+            {
+              "id": "naziat-17-4",
+              "arabic": "إِنَّهُۥ",
+              "latin": "Innahu",
+              "meaning": "sesungguhnya dia"
+            },
+            {
+              "id": "naziat-17-5",
+              "arabic": "طَغَىٰ",
+              "latin": "Tagha",
+              "meaning": "telah melampaui batas"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "words": [
+            {
+              "id": "naziat-18-1",
+              "arabic": "فَقُلْ",
+              "latin": "Faqul",
+              "meaning": "Maka katakanlah"
+            },
+            {
+              "id": "naziat-18-2",
+              "arabic": "هَل",
+              "latin": "Hal",
+              "meaning": "adakah"
+            },
+            {
+              "id": "naziat-18-3",
+              "arabic": "لَّكَ",
+              "latin": "Laka",
+              "meaning": "bagimu (keinginan)"
+            },
+            {
+              "id": "naziat-18-4",
+              "arabic": "إِلَىٰٓ",
+              "latin": "Ila",
+              "meaning": "untuk"
+            },
+            {
+              "id": "naziat-18-5",
+              "arabic": "أَن",
+              "latin": "An",
+              "meaning": "bahwa"
+            },
+            {
+              "id": "naziat-18-6",
+              "arabic": "تَزَكَّىٰ",
+              "latin": "Tazakka",
+              "meaning": "kamu membersihkan diri"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "words": [
+            {
+              "id": "naziat-19-1",
+              "arabic": "وَأَهْدِيَكَ",
+              "latin": "Wa ahdiyaka",
+              "meaning": "dan aku akan membimbingmu"
+            },
+            {
+              "id": "naziat-19-2",
+              "arabic": "إِلَىٰ",
+              "latin": "Ila",
+              "meaning": "kepada"
+            },
+            {
+              "id": "naziat-19-3",
+              "arabic": "رَبِّكَ",
+              "latin": "Rabbika",
+              "meaning": "Tuhanmu"
+            },
+            {
+              "id": "naziat-19-4",
+              "arabic": "فَتَخْشَىٰ",
+              "latin": "Fatakhsha",
+              "meaning": "sehingga kamu takut (kepada-Nya)"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "words": [
+            {
+              "id": "naziat-20-1",
+              "arabic": "فَأَرَٰهُ",
+              "latin": "Fa arahu",
+              "meaning": "Lalu dia (Musa) memperlihatkan kepadanya"
+            },
+            {
+              "id": "naziat-20-2",
+              "arabic": "ٱلْءَايَةَ",
+              "latin": "Al-ayata",
+              "meaning": "mukjizat"
+            },
+            {
+              "id": "naziat-20-3",
+              "arabic": "ٱلْكُبْرَىٰ",
+              "latin": "Al-kubra",
+              "meaning": "yang besar"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "words": [
+            {
+              "id": "naziat-21-1",
+              "arabic": "فَكَذَّبَ",
+              "latin": "Fakazhzhaba",
+              "meaning": "Tetapi dia (Firaun) mendustakan"
+            },
+            {
+              "id": "naziat-21-2",
+              "arabic": "وَعَصَىٰ",
+              "latin": "Wa 'asa",
+              "meaning": "dan mendurhakai"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "words": [
+            {
+              "id": "naziat-22-1",
+              "arabic": "ثُمَّ",
+              "latin": "Thumma",
+              "meaning": "Kemudian"
+            },
+            {
+              "id": "naziat-22-2",
+              "arabic": "أَدْبَرَ",
+              "latin": "Adbara",
+              "meaning": "dia berpaling"
+            },
+            {
+              "id": "naziat-22-3",
+              "arabic": "يَسْعَىٰ",
+              "latin": "Yas'a",
+              "meaning": "berusaha (menantang Musa)"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "words": [
+            {
+              "id": "naziat-23-1",
+              "arabic": "فَحَشَرَ",
+              "latin": "Fahashara",
+              "meaning": "Maka dia mengumpulkan (kaumnya)"
+            },
+            {
+              "id": "naziat-23-2",
+              "arabic": "فَنَادَىٰ",
+              "latin": "Fanada",
+              "meaning": "lalu berseru"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "words": [
+            {
+              "id": "naziat-24-1",
+              "arabic": "فَقَالَ",
+              "latin": "Faqala",
+              "meaning": "Dia berkata"
+            },
+            {
+              "id": "naziat-24-2",
+              "arabic": "أَنَا۠",
+              "latin": "Ana",
+              "meaning": "Aku"
+            },
+            {
+              "id": "naziat-24-3",
+              "arabic": "رَبُّكُمُ",
+              "latin": "Rabbukumu",
+              "meaning": "tuhanmu"
+            },
+            {
+              "id": "naziat-24-4",
+              "arabic": "ٱلْأَعْلَىٰ",
+              "latin": "Al-a'la",
+              "meaning": "yang paling tinggi"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "words": [
+            {
+              "id": "naziat-25-1",
+              "arabic": "فَأَخَذَهُ",
+              "latin": "Fa akhazhahu",
+              "meaning": "Maka mengazabnya"
+            },
+            {
+              "id": "naziat-25-2",
+              "arabic": "ٱللَّهُ",
+              "latin": "Allahu",
+              "meaning": "Allah"
+            },
+            {
+              "id": "naziat-25-3",
+              "arabic": "نَكَالَ",
+              "latin": "Nakala",
+              "meaning": "dengan azab"
+            },
+            {
+              "id": "naziat-25-4",
+              "arabic": "ٱلْءَاخِرَةِ",
+              "latin": "Al-akhirati",
+              "meaning": "di akhirat"
+            },
+            {
+              "id": "naziat-25-5",
+              "arabic": "وَٱلْأُولَىٰٓ",
+              "latin": "Wal-ula",
+              "meaning": "dan di dunia"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "words": [
+            {
+              "id": "naziat-26-1",
+              "arabic": "إِنَّ",
+              "latin": "Inna",
+              "meaning": "Sesungguhnya"
+            },
+            {
+              "id": "naziat-26-2",
+              "arabic": "فِى",
+              "latin": "Fi",
+              "meaning": "pada"
+            },
+            {
+              "id": "naziat-26-3",
+              "arabic": "ذَٰلِكَ",
+              "latin": "Zhalika",
+              "meaning": "yang demikian itu"
+            },
+            {
+              "id": "naziat-26-4",
+              "arabic": "لَعِبْرَةً",
+              "latin": "La'ibratan",
+              "meaning": "terdapat pelajaran"
+            },
+            {
+              "id": "naziat-26-5",
+              "arabic": "لِّمَن",
+              "latin": "Liman",
+              "meaning": "bagi orang yang"
+            },
+            {
+              "id": "naziat-26-6",
+              "arabic": "يَخْشَىٰٓ",
+              "latin": "Yakhsha",
+              "meaning": "takut (kepada Allah)"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "words": [
+            {
+              "id": "naziat-27-1",
+              "arabic": "أَءَنتُمْ",
+              "latin": "A-antum",
+              "meaning": "Apakah kamu"
+            },
+            {
+              "id": "naziat-27-2",
+              "arabic": "أَشَدُّ",
+              "latin": "Ashaddu",
+              "meaning": "lebih sulit"
+            },
+            {
+              "id": "naziat-27-3",
+              "arabic": "خَلْقًا",
+              "latin": "Khalqan",
+              "meaning": "penciptaannya"
+            },
+            {
+              "id": "naziat-27-4",
+              "arabic": "أَمِ",
+              "latin": "Ami",
+              "meaning": "ataukah"
+            },
+            {
+              "id": "naziat-27-5",
+              "arabic": "ٱلسَّمَآءُ",
+              "latin": "As-sama'u",
+              "meaning": "langit"
+            },
+            {
+              "id": "naziat-27-6",
+              "arabic": "بَنَىٰهَا",
+              "latin": "Banaha",
+              "meaning": "yang telah dibangun-Nya"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "words": [
+            {
+              "id": "naziat-28-1",
+              "arabic": "رَفَعَ",
+              "latin": "Rafa'a",
+              "meaning": "Dia meninggikan"
+            },
+            {
+              "id": "naziat-28-2",
+              "arabic": "سَمْكَهَا",
+              "latin": "Samkaha",
+              "meaning": "bangunannya"
+            },
+            {
+              "id": "naziat-28-3",
+              "arabic": "فَسَوَّىٰهَا",
+              "latin": "Fasawwaha",
+              "meaning": "lalu menyempurnakannya"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "words": [
+            {
+              "id": "naziat-29-1",
+              "arabic": "وَأَغْطَشَ",
+              "latin": "Wa aghtasha",
+              "meaning": "dan Dia menjadikan gelap"
+            },
+            {
+              "id": "naziat-29-2",
+              "arabic": "لَيْلَهَا",
+              "latin": "Laylaha",
+              "meaning": "malamnya"
+            },
+            {
+              "id": "naziat-29-3",
+              "arabic": "وَأَخْرَجَ",
+              "latin": "Wa akhraja",
+              "meaning": "dan Dia menjadikan terang"
+            },
+            {
+              "id": "naziat-29-4",
+              "arabic": "ضُحَىٰهَا",
+              "latin": "Duhaha",
+              "meaning": "siang harinya"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "words": [
+            {
+              "id": "naziat-30-1",
+              "arabic": "وَٱلْأَرْضَ",
+              "latin": "Wal-arda",
+              "meaning": "Dan bumi"
+            },
+            {
+              "id": "naziat-30-2",
+              "arabic": "بَعْدَ",
+              "latin": "Ba'da",
+              "meaning": "sesudah"
+            },
+            {
+              "id": "naziat-30-3",
+              "arabic": "ذَٰلِكَ",
+              "latin": "Zhalika",
+              "meaning": "itu"
+            },
+            {
+              "id": "naziat-30-4",
+              "arabic": "دَحَىٰهَآ",
+              "latin": "Dahaha",
+              "meaning": "Dia menghamparkannya"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "words": [
+            {
+              "id": "naziat-31-1",
+              "arabic": "أَخْرَجَ",
+              "latin": "Akhraja",
+              "meaning": "Dia memancarkan"
+            },
+            {
+              "id": "naziat-31-2",
+              "arabic": "مِنْهَا",
+              "latin": "Minha",
+              "meaning": "daripadanya"
+            },
+            {
+              "id": "naziat-31-3",
+              "arabic": "مَآءَهَا",
+              "latin": "Ma'aha",
+              "meaning": "mata airnya"
+            },
+            {
+              "id": "naziat-31-4",
+              "arabic": "وَمَرْعَىٰهَا",
+              "latin": "Wa mar'aha",
+              "meaning": "dan tumbuh-tumbuhannya"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "words": [
+            {
+              "id": "naziat-32-1",
+              "arabic": "وَٱلْجِبَالَ",
+              "latin": "Wal-jibala",
+              "meaning": "Dan gunung-gunung"
+            },
+            {
+              "id": "naziat-32-2",
+              "arabic": "أَرْسَىٰهَا",
+              "latin": "Arsaha",
+              "meaning": "Dia pancangkan dengan teguh"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "words": [
+            {
+              "id": "naziat-33-1",
+              "arabic": "مَتَٰعًا",
+              "latin": "Mata'an",
+              "meaning": "Untuk kesenangan"
+            },
+            {
+              "id": "naziat-33-2",
+              "arabic": "لَّكُمْ",
+              "latin": "Lakum",
+              "meaning": "bagi kamu"
+            },
+            {
+              "id": "naziat-33-3",
+              "arabic": "وَلِأَنْعَٰمِكُمْ",
+              "latin": "Wa li an'amikum",
+              "meaning": "dan binatang ternakmu"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "words": [
+            {
+              "id": "naziat-34-1",
+              "arabic": "فَإِذَا",
+              "latin": "Fa izha",
+              "meaning": "Maka apabila"
+            },
+            {
+              "id": "naziat-34-2",
+              "arabic": "جَآءَتِ",
+              "latin": "Ja'ati",
+              "meaning": "telah datang"
+            },
+            {
+              "id": "naziat-34-3",
+              "arabic": "ٱلطَّآمَّةُ",
+              "latin": "At-tammatu",
+              "meaning": "malapetaka"
+            },
+            {
+              "id": "naziat-34-4",
+              "arabic": "ٱلْكُبْرَىٰ",
+              "latin": "Al-kubra",
+              "meaning": "yang sangat besar (Kiamat)"
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "words": [
+            {
+              "id": "naziat-35-1",
+              "arabic": "يَوْمَ",
+              "latin": "Yawma",
+              "meaning": "Pada hari"
+            },
+            {
+              "id": "naziat-35-2",
+              "arabic": "يَتَذَكَّرُ",
+              "latin": "Yatazhakkaru",
+              "meaning": "teringat"
+            },
+            {
+              "id": "naziat-35-3",
+              "arabic": "ٱلْإِنسَٰنُ",
+              "latin": "Al-insanu",
+              "meaning": "manusia"
+            },
+            {
+              "id": "naziat-35-4",
+              "arabic": "مَا",
+              "latin": "Ma",
+              "meaning": "apa yang"
+            },
+            {
+              "id": "naziat-35-5",
+              "arabic": "سَعَىٰ",
+              "latin": "Sa'a",
+              "meaning": "telah diusahakannya"
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "words": [
+            {
+              "id": "naziat-36-1",
+              "arabic": "وَبُرِّزَتِ",
+              "latin": "Wa burrizati",
+              "meaning": "dan diperlihatkan"
+            },
+            {
+              "id": "naziat-36-2",
+              "arabic": "ٱلْجَحِيمُ",
+              "latin": "Al-jahimu",
+              "meaning": "neraka"
+            },
+            {
+              "id": "naziat-36-3",
+              "arabic": "لِمَن",
+              "latin": "Liman",
+              "meaning": "kepada orang yang"
+            },
+            {
+              "id": "naziat-36-4",
+              "arabic": "يَرَىٰ",
+              "latin": "Yara",
+              "meaning": "melihatnya"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "words": [
+            {
+              "id": "naziat-37-1",
+              "arabic": "فَأَمَّا",
+              "latin": "Fa amma",
+              "meaning": "Adapun"
+            },
+            {
+              "id": "naziat-37-2",
+              "arabic": "مَن",
+              "latin": "Man",
+              "meaning": "orang yang"
+            },
+            {
+              "id": "naziat-37-3",
+              "arabic": "طَغَىٰ",
+              "latin": "Tagha",
+              "meaning": "melampaui batas"
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "words": [
+            {
+              "id": "naziat-38-1",
+              "arabic": "وَءَاثَرَ",
+              "latin": "Wa athara",
+              "meaning": "dan lebih mengutamakan"
+            },
+            {
+              "id": "naziat-38-2",
+              "arabic": "ٱلْحَيَوٰةَ",
+              "latin": "Al-hayata",
+              "meaning": "kehidupan"
+            },
+            {
+              "id": "naziat-38-3",
+              "arabic": "ٱلدُّنْيَا",
+              "latin": "Ad-dunya",
+              "meaning": "dunia"
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "words": [
+            {
+              "id": "naziat-39-1",
+              "arabic": "فَإِنَّ",
+              "latin": "Fa inna",
+              "meaning": "Maka sesungguhnya"
+            },
+            {
+              "id": "naziat-39-2",
+              "arabic": "ٱلْجَحِيمَ",
+              "latin": "Al-jahima",
+              "meaning": "neraka Jahim-lah"
+            },
+            {
+              "id": "naziat-39-3",
+              "arabic": "هِىَ",
+              "latin": "Hiya",
+              "meaning": "ia"
+            },
+            {
+              "id": "naziat-39-4",
+              "arabic": "ٱلْمَأْوَىٰ",
+              "latin": "Al-ma'wa",
+              "meaning": "tempat tinggalnya"
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "words": [
+            {
+              "id": "naziat-40-1",
+              "arabic": "وَأَمَّا",
+              "latin": "Wa amma",
+              "meaning": "Dan adapun"
+            },
+            {
+              "id": "naziat-40-2",
+              "arabic": "مَنْ",
+              "latin": "Man",
+              "meaning": "orang yang"
+            },
+            {
+              "id": "naziat-40-3",
+              "arabic": "خَافَ",
+              "latin": "Khafa",
+              "meaning": "takut"
+            },
+            {
+              "id": "naziat-40-4",
+              "arabic": "مَقَامَ",
+              "latin": "Maqama",
+              "meaning": "kebesaran"
+            },
+            {
+              "id": "naziat-40-5",
+              "arabic": "رَبِّهِۦ",
+              "latin": "Rabbihi",
+              "meaning": "Tuhannya"
+            },
+            {
+              "id": "naziat-40-6",
+              "arabic": "وَنَهَى",
+              "latin": "Wa naha",
+              "meaning": "dan menahan"
+            },
+            {
+              "id": "naziat-40-7",
+              "arabic": "ٱلنَّفْسَ",
+              "latin": "An-nafsa",
+              "meaning": "diri"
+            },
+            {
+              "id": "naziat-40-8",
+              "arabic": "عَنِ",
+              "latin": "An",
+              "meaning": "dari"
+            },
+            {
+              "id": "naziat-40-9",
+              "arabic": "ٱلْهَوَىٰ",
+              "latin": "Al-hawa",
+              "meaning": "keinginan hawa nafsu"
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "words": [
+            {
+              "id": "naziat-41-1",
+              "arabic": "فَإِنَّ",
+              "latin": "Fa inna",
+              "meaning": "Maka sesungguhnya"
+            },
+            {
+              "id": "naziat-41-2",
+              "arabic": "ٱلْجَنَّةَ",
+              "latin": "Al-jannata",
+              "meaning": "surga-lah"
+            },
+            {
+              "id": "naziat-41-3",
+              "arabic": "هِىَ",
+              "latin": "Hiya",
+              "meaning": "dia"
+            },
+            {
+              "id": "naziat-41-4",
+              "arabic": "ٱلْمَأْوَىٰ",
+              "latin": "Al-ma'wa",
+              "meaning": "tempat tinggal(nya)"
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "words": [
+            {
+              "id": "naziat-42-1",
+              "arabic": "يَسْـَٔلُونَكَ",
+              "latin": "Yas'alunaka",
+              "meaning": "Mereka bertanya kepadamu"
+            },
+            {
+              "id": "naziat-42-2",
+              "arabic": "عَنِ",
+              "latin": "Ani",
+              "meaning": "tentang"
+            },
+            {
+              "id": "naziat-42-3",
+              "arabic": "ٱلسَّاعَةِ",
+              "latin": "As-sa'ati",
+              "meaning": "hari kiamat"
+            },
+            {
+              "id": "naziat-42-4",
+              "arabic": "أَيَّانَ",
+              "latin": "Ayyaana",
+              "meaning": "kapankah"
+            },
+            {
+              "id": "naziat-42-5",
+              "arabic": "مُرْسَىٰهَا",
+              "latin": "Mursaha",
+              "meaning": "terjadinya"
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "words": [
+            {
+              "id": "naziat-43-1",
+              "arabic": "فِيمَ",
+              "latin": "Fima",
+              "meaning": "Untuk apa"
+            },
+            {
+              "id": "naziat-43-2",
+              "arabic": "أَنتَ",
+              "latin": "Anta",
+              "meaning": "kamu"
+            },
+            {
+              "id": "naziat-43-3",
+              "arabic": "مِن",
+              "latin": "Min",
+              "meaning": "dengan"
+            },
+            {
+              "id": "naziat-43-4",
+              "arabic": "ذِكْرَىٰهَآ",
+              "latin": "Zhikraha",
+              "meaning": "menyebut-nyebutnya (waktunya)"
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "words": [
+            {
+              "id": "naziat-44-1",
+              "arabic": "إِلَىٰ",
+              "latin": "Ila",
+              "meaning": "Kepada"
+            },
+            {
+              "id": "naziat-44-2",
+              "arabic": "رَبِّكَ",
+              "latin": "Rabbika",
+              "meaning": "Tuhanmulah"
+            },
+            {
+              "id": "naziat-44-3",
+              "arabic": "مُنتَهَىٰهَآ",
+              "latin": "Muntahaha",
+              "meaning": "dikembalikan kesudahannya"
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "words": [
+            {
+              "id": "naziat-45-1",
+              "arabic": "إِنَّمَآ",
+              "latin": "Innama",
+              "meaning": "Sesungguhnya hanyalah"
+            },
+            {
+              "id": "naziat-45-2",
+              "arabic": "أَنتَ",
+              "latin": "Anta",
+              "meaning": "kamu"
+            },
+            {
+              "id": "naziat-45-3",
+              "arabic": "مُنذِرُ",
+              "latin": "Munzhiru",
+              "meaning": "pemberi peringatan"
+            },
+            {
+              "id": "naziat-45-4",
+              "arabic": "مَن",
+              "latin": "Man",
+              "meaning": "bagi siapa yang"
+            },
+            {
+              "id": "naziat-45-5",
+              "arabic": "يَخْشَىٰهَا",
+              "latin": "Yakhshaha",
+              "meaning": "takut kepadanya (kiamat)"
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "words": [
+            {
+              "id": "naziat-46-1",
+              "arabic": "كَأَنَّهُمْ",
+              "latin": "Ka annahum",
+              "meaning": "Pada hari mereka"
+            },
+            {
+              "id": "naziat-46-2",
+              "arabic": "يَوْمَ",
+              "latin": "Yawma",
+              "meaning": "melihat"
+            },
+            {
+              "id": "naziat-46-3",
+              "arabic": "يَرَوْنَهَا",
+              "latin": "Yarawnaha",
+              "meaning": "kiamat itu"
+            },
+            {
+              "id": "naziat-46-4",
+              "arabic": "لَمْ",
+              "latin": "Lam",
+              "meaning": "mereka merasa seolah-olah tidak"
+            },
+            {
+              "id": "naziat-46-5",
+              "arabic": "يَلْبَثُوٓا۟",
+              "latin": "Yalbathu",
+              "meaning": "tinggal (di dunia)"
+            },
+            {
+              "id": "naziat-46-6",
+              "arabic": "إِلَّا",
+              "latin": "Illa",
+              "meaning": "kecuali"
+            },
+            {
+              "id": "naziat-46-7",
+              "arabic": "عَشِيَّةً",
+              "latin": "Ashiyyatan",
+              "meaning": "di waktu sore"
+            },
+            {
+              "id": "naziat-46-8",
+              "arabic": "أَوْ",
+              "latin": "Aw",
+              "meaning": "atau"
+            },
+            {
+              "id": "naziat-46-9",
+              "arabic": "ضُحَىٰهَا",
+              "latin": "Duhaha",
+              "meaning": "di pagi harinya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abasa",
+      "name": "'Abasa",
+      "nameArabic": "عبس",
+      "meaning": "Ia Bermuka Masam",
+      "verses": [
+        {
+          "id": 1,
+          "words": [
+            {
+              "id": "abasa-1-1",
+              "arabic": "عَبَسَ",
+              "latin": "'Abasa",
+              "meaning": "Dia bermuka masam"
+            },
+            {
+              "id": "abasa-1-2",
+              "arabic": "وَتَوَلَّىٰ",
+              "latin": "Watawalla",
+              "meaning": "dan berpaling"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "words": [
+            {
+              "id": "abasa-2-1",
+              "arabic": "أَن",
+              "latin": "An",
+              "meaning": "karena"
+            },
+            {
+              "id": "abasa-2-2",
+              "arabic": "جَآءَهُ",
+              "latin": "Ja'ahu",
+              "meaning": "telah datang kepadanya"
+            },
+            {
+              "id": "abasa-2-3",
+              "arabic": "ٱلْأَعْمَىٰ",
+              "latin": "Al-a'ma",
+              "meaning": "orang buta"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "words": [
+            {
+              "id": "abasa-3-1",
+              "arabic": "وَمَا",
+              "latin": "Wa ma",
+              "meaning": "Dan tahukah"
+            },
+            {
+              "id": "abasa-3-2",
+              "arabic": "يُدْرِيكَ",
+              "latin": "Yudrika",
+              "meaning": "kamu"
+            },
+            {
+              "id": "abasa-3-3",
+              "arabic": "لَعَلَّهُۥ",
+              "latin": "La'allahu",
+              "meaning": "barangkali ia"
+            },
+            {
+              "id": "abasa-3-4",
+              "arabic": "يَزَّكَّىٰ",
+              "latin": "Yazzakka",
+              "meaning": "ingin membersihkan diri"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "words": [
+            {
+              "id": "abasa-4-1",
+              "arabic": "أَوْ",
+              "latin": "Aw",
+              "meaning": "atau"
+            },
+            {
+              "id": "abasa-4-2",
+              "arabic": "يَذَّكَّرُ",
+              "latin": "Yazhzakkaru",
+              "meaning": "dia ingin mendapatkan pengajaran"
+            },
+            {
+              "id": "abasa-4-3",
+              "arabic": "فَتَنفَعَهُ",
+              "latin": "Fatanfa'ahu",
+              "meaning": "lalu memberi manfaat kepadanya"
+            },
+            {
+              "id": "abasa-4-4",
+              "arabic": "ٱلذِّكْرَىٰ",
+              "latin": "Azh-zhikra",
+              "meaning": "pengajaran itu"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "words": [
+            {
+              "id": "abasa-5-1",
+              "arabic": "أَمَّا",
+              "latin": "Amma",
+              "meaning": "Adapun"
+            },
+            {
+              "id": "abasa-5-2",
+              "arabic": "مَنِ",
+              "latin": "Mani",
+              "meaning": "orang yang"
+            },
+            {
+              "id": "abasa-5-3",
+              "arabic": "ٱسْتَغْنَىٰ",
+              "latin": "Istaghna",
+              "meaning": "merasa dirinya serba cukup"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "words": [
+            {
+              "id": "abasa-6-1",
+              "arabic": "فَأَنتَ",
+              "latin": "Fa anta",
+              "meaning": "maka kamu"
+            },
+            {
+              "id": "abasa-6-2",
+              "arabic": "لَهُۥ",
+              "latin": "Lahu",
+              "meaning": "kepadanya"
+            },
+            {
+              "id": "abasa-6-3",
+              "arabic": "تَصَدَّىٰ",
+              "latin": "Tasadda",
+              "meaning": "melayaninya"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "words": [
+            {
+              "id": "abasa-7-1",
+              "arabic": "وَمَا",
+              "latin": "Wa ma",
+              "meaning": "Padahal tidak ada"
+            },
+            {
+              "id": "abasa-7-2",
+              "arabic": "عَلَيْكَ",
+              "latin": "'Alayka",
+              "meaning": "(celaan) atasmu"
+            },
+            {
+              "id": "abasa-7-3",
+              "arabic": "أَلَّا",
+              "latin": "Alla",
+              "meaning": "kalau dia tidak"
+            },
+            {
+              "id": "abasa-7-4",
+              "arabic": "يَزَّكَّىٰ",
+              "latin": "Yazzakka",
+              "meaning": "membersihkan diri"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "words": [
+            {
+              "id": "abasa-8-1",
+              "arabic": "وَأَمَّا",
+              "latin": "Wa amma",
+              "meaning": "Dan adapun"
+            },
+            {
+              "id": "abasa-8-2",
+              "arabic": "مَن",
+              "latin": "Man",
+              "meaning": "orang yang"
+            },
+            {
+              "id": "abasa-8-3",
+              "arabic": "جَآءَكَ",
+              "latin": "Ja'aka",
+              "meaning": "datang kepadamu"
+            },
+            {
+              "id": "abasa-8-4",
+              "arabic": "يَسْعَىٰ",
+              "latin": "Yas'a",
+              "meaning": "dengan bersegera"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "words": [
+            {
+              "id": "abasa-9-1",
+              "arabic": "وَهُوَ",
+              "latin": "Wa huwa",
+              "meaning": "sedang ia"
+            },
+            {
+              "id": "abasa-9-2",
+              "arabic": "يَخْشَىٰ",
+              "latin": "Yakhsha",
+              "meaning": "takut (kepada Allah)"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "words": [
+            {
+              "id": "abasa-10-1",
+              "arabic": "فَأَنتَ",
+              "latin": "Fa anta",
+              "meaning": "maka kamu"
+            },
+            {
+              "id": "abasa-10-2",
+              "arabic": "عَنْهُ",
+              "latin": "'Anhu",
+              "meaning": "daripadanya"
+            },
+            {
+              "id": "abasa-10-3",
+              "arabic": "تَلَهَّىٰ",
+              "latin": "Talahha",
+              "meaning": "mengabaikan"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "words": [
+            {
+              "id": "abasa-11-1",
+              "arabic": "كَلَّآ",
+              "latin": "Kalla",
+              "meaning": "Sekali-kali jangan (demikian)"
+            },
+            {
+              "id": "abasa-11-2",
+              "arabic": "إِنَّهَا",
+              "latin": "Innaha",
+              "meaning": "sesungguhnya ajaran-ajaran Tuhan itu"
+            },
+            {
+              "id": "abasa-11-3",
+              "arabic": "تَذْكِرَةٌ",
+              "latin": "Tazhkirah",
+              "meaning": "adalah suatu peringatan"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "words": [
+            {
+              "id": "abasa-12-1",
+              "arabic": "فَمَن",
+              "latin": "Faman",
+              "meaning": "maka barangsiapa"
+            },
+            {
+              "id": "abasa-12-2",
+              "arabic": "شَآءَ",
+              "latin": "Sha'a",
+              "meaning": "yang menghendaki"
+            },
+            {
+              "id": "abasa-12-3",
+              "arabic": "ذَكَرَهُۥ",
+              "latin": "Zhakarah",
+              "meaning": "tentulah ia memperhatikannya"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "words": [
+            {
+              "id": "abasa-13-1",
+              "arabic": "فِى",
+              "latin": "Fi",
+              "meaning": "di dalam"
+            },
+            {
+              "id": "abasa-13-2",
+              "arabic": "صُحُفٍ",
+              "latin": "Suhufin",
+              "meaning": "kitab-kitab"
+            },
+            {
+              "id": "abasa-13-3",
+              "arabic": "مُّكَرَّمَةٍ",
+              "latin": "Mukarramah",
+              "meaning": "yang dimuliakan"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "words": [
+            {
+              "id": "abasa-14-1",
+              "arabic": "مَّرْفُوعَةٍ",
+              "latin": "Marfu'atin",
+              "meaning": "yang ditinggikan"
+            },
+            {
+              "id": "abasa-14-2",
+              "arabic": "مُّطَهَّرَةٍ",
+              "latin": "Mutahharah",
+              "meaning": "disucikan"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "words": [
+            {
+              "id": "abasa-15-1",
+              "arabic": "بِأَيْدِى",
+              "latin": "Bi aydi",
+              "meaning": "di tangan"
+            },
+            {
+              "id": "abasa-15-2",
+              "arabic": "سَفَرَةٍ",
+              "latin": "Safarah",
+              "meaning": "para utusan (malaikat)"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "words": [
+            {
+              "id": "abasa-16-1",
+              "arabic": "كِرَامٍ",
+              "latin": "Kiramin",
+              "meaning": "yang mulia"
+            },
+            {
+              "id": "abasa-16-2",
+              "arabic": "بَرَرَةٍ",
+              "latin": "Bararah",
+              "meaning": "lagi berbakti"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "words": [
+            {
+              "id": "abasa-17-1",
+              "arabic": "قُتِلَ",
+              "latin": "Qutila",
+              "meaning": "Binasalah"
+            },
+            {
+              "id": "abasa-17-2",
+              "arabic": "ٱلْإِنسَٰنُ",
+              "latin": "Al-insanu",
+              "meaning": "manusia"
+            },
+            {
+              "id": "abasa-17-3",
+              "arabic": "مَآ",
+              "latin": "Ma",
+              "meaning": "alangkah"
+            },
+            {
+              "id": "abasa-17-4",
+              "arabic": "أَكْفَرَهُۥ",
+              "latin": "Akfarah",
+              "meaning": "amat sangat kekafirannya"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "words": [
+            {
+              "id": "abasa-18-1",
+              "arabic": "مِنْ",
+              "latin": "Min",
+              "meaning": "Dari"
+            },
+            {
+              "id": "abasa-18-2",
+              "arabic": "أَىِّ",
+              "latin": "Ayyi",
+              "meaning": "apakah"
+            },
+            {
+              "id": "abasa-18-3",
+              "arabic": "شَىْءٍ",
+              "latin": "Shay'in",
+              "meaning": "sesuatu"
+            },
+            {
+              "id": "abasa-18-4",
+              "arabic": "خَلَقَهُۥ",
+              "latin": "Khalaqah",
+              "meaning": "Allah menciptakannya?"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "words": [
+            {
+              "id": "abasa-19-1",
+              "arabic": "مِن",
+              "latin": "Min",
+              "meaning": "Dari"
+            },
+            {
+              "id": "abasa-19-2",
+              "arabic": "نُّطْفَةٍ",
+              "latin": "Nutfatin",
+              "meaning": "setetes mani"
+            },
+            {
+              "id": "abasa-19-3",
+              "arabic": "خَلَقَهُۥ",
+              "latin": "Khalaqah",
+              "meaning": "Dia menciptakannya"
+            },
+            {
+              "id": "abasa-19-4",
+              "arabic": "فَقَدَّرَهُۥ",
+              "latin": "Faqaddarah",
+              "meaning": "lalu menentukannya"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "words": [
+            {
+              "id": "abasa-20-1",
+              "arabic": "ثُمَّ",
+              "latin": "Thumma",
+              "meaning": "Kemudian"
+            },
+            {
+              "id": "abasa-20-2",
+              "arabic": "ٱلسَّبِيلَ",
+              "latin": "As-sabila",
+              "meaning": "jalannya"
+            },
+            {
+              "id": "abasa-20-3",
+              "arabic": "يَسَّرَهُۥ",
+              "latin": "Yassarah",
+              "meaning": "Dia memudahkannya"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "words": [
+            {
+              "id": "abasa-21-1",
+              "arabic": "ثُمَّ",
+              "latin": "Thumma",
+              "meaning": "kemudian"
+            },
+            {
+              "id": "abasa-21-2",
+              "arabic": "أَمَاتَهُۥ",
+              "latin": "Amatahu",
+              "meaning": "Dia mematikannya"
+            },
+            {
+              "id": "abasa-21-3",
+              "arabic": "فَأَقْبَرَهُۥ",
+              "latin": "Fa aqbarah",
+              "meaning": "dan memasukkannya ke dalam kubur"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "words": [
+            {
+              "id": "abasa-22-1",
+              "arabic": "ثُمَّ",
+              "latin": "Thumma",
+              "meaning": "kemudian"
+            },
+            {
+              "id": "abasa-22-2",
+              "arabic": "إِذَا",
+              "latin": "Izha",
+              "meaning": "apabila"
+            },
+            {
+              "id": "abasa-22-3",
+              "arabic": "شَآءَ",
+              "latin": "Sha'a",
+              "meaning": "Dia menghendaki"
+            },
+            {
+              "id": "abasa-22-4",
+              "arabic": "أَنشَرَهُۥ",
+              "latin": "Ansharah",
+              "meaning": "Dia membangkitkannya"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "words": [
+            {
+              "id": "abasa-23-1",
+              "arabic": "كَلَّا",
+              "latin": "Kalla",
+              "meaning": "Sekali-kali jangan"
+            },
+            {
+              "id": "abasa-23-2",
+              "arabic": "لَمَّا",
+              "latin": "Lamma",
+              "meaning": "belum"
+            },
+            {
+              "id": "abasa-23-3",
+              "arabic": "يَقْضِ",
+              "latin": "Yaqdi",
+              "meaning": "dia melaksanakan"
+            },
+            {
+              "id": "abasa-23-4",
+              "arabic": "مَآ",
+              "latin": "Ma",
+              "meaning": "apa yang"
+            },
+            {
+              "id": "abasa-23-5",
+              "arabic": "أَمَرَهُۥ",
+              "latin": "Amarah",
+              "meaning": "diperintahkan Allah kepadanya"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "words": [
+            {
+              "id": "abasa-24-1",
+              "arabic": "فَلْيَنظُرِ",
+              "latin": "Falyanzhuri",
+              "meaning": "Maka hendaklah memperhatikan"
+            },
+            {
+              "id": "abasa-24-2",
+              "arabic": "ٱلْإِنسَٰنُ",
+              "latin": "Al-insanu",
+              "meaning": "manusia itu"
+            },
+            {
+              "id": "abasa-24-3",
+              "arabic": "إِلَىٰ",
+              "latin": "Ila",
+              "meaning": "kepada"
+            },
+            {
+              "id": "abasa-24-4",
+              "arabic": "طَعَامِهِۦ",
+              "latin": "Ta'amih",
+              "meaning": "makanannya"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "words": [
+            {
+              "id": "abasa-25-1",
+              "arabic": "أَنَّا",
+              "latin": "Anna",
+              "meaning": "Sesungguhnya Kami"
+            },
+            {
+              "id": "abasa-25-2",
+              "arabic": "صَبَبْنَا",
+              "latin": "Sababna",
+              "meaning": "telah mencurahkan"
+            },
+            {
+              "id": "abasa-25-3",
+              "arabic": "ٱلْمَآءَ",
+              "latin": "Al-ma'a",
+              "meaning": "air"
+            },
+            {
+              "id": "abasa-25-4",
+              "arabic": "صَبًّا",
+              "latin": "Sabba",
+              "meaning": "bertubi-tubi"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "words": [
+            {
+              "id": "abasa-26-1",
+              "arabic": "ثُمَّ",
+              "latin": "Thumma",
+              "meaning": "kemudian"
+            },
+            {
+              "id": "abasa-26-2",
+              "arabic": "شَقَقْنَا",
+              "latin": "Shaqaqna",
+              "meaning": "Kami membelah"
+            },
+            {
+              "id": "abasa-26-3",
+              "arabic": "ٱلْأَرْضَ",
+              "latin": "Al-ardha",
+              "meaning": "bumi"
+            },
+            {
+              "id": "abasa-26-4",
+              "arabic": "شَقًّا",
+              "latin": "Shaqqa",
+              "meaning": "dengan sebaik-baiknya"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "words": [
+            {
+              "id": "abasa-27-1",
+              "arabic": "فَأَنبَتْنَا",
+              "latin": "Fa anbatna",
+              "meaning": "lalu Kami tumbuhkan"
+            },
+            {
+              "id": "abasa-27-2",
+              "arabic": "فِيهَا",
+              "latin": "Fiha",
+              "meaning": "padanya"
+            },
+            {
+              "id": "abasa-27-3",
+              "arabic": "حَبًّا",
+              "latin": "Habba",
+              "meaning": "biji-bijian"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "words": [
+            {
+              "id": "abasa-28-1",
+              "arabic": "وَعِنَبًا",
+              "latin": "Wa 'inaban",
+              "meaning": "dan anggur"
+            },
+            {
+              "id": "abasa-28-2",
+              "arabic": "وَقَضْبًا",
+              "latin": "Wa qadba",
+              "meaning": "dan sayur-sayuran"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "words": [
+            {
+              "id": "abasa-29-1",
+              "arabic": "وَزَيْتُونًا",
+              "latin": "Wa zaytunan",
+              "meaning": "dan zaitun"
+            },
+            {
+              "id": "abasa-29-2",
+              "arabic": "وَنَخْلًا",
+              "latin": "Wa nakhla",
+              "meaning": "dan pohon kurma"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "words": [
+            {
+              "id": "abasa-30-1",
+              "arabic": "وَحَدَآئِقَ",
+              "latin": "Wa hada'iqa",
+              "meaning": "dan kebun-kebun"
+            },
+            {
+              "id": "abasa-30-2",
+              "arabic": "غُلْبًا",
+              "latin": "Ghulba",
+              "meaning": "yang lebat"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "words": [
+            {
+              "id": "abasa-31-1",
+              "arabic": "وَفَٰكِهَةً",
+              "latin": "Wa fakihatan",
+              "meaning": "dan buah-buahan"
+            },
+            {
+              "id": "abasa-31-2",
+              "arabic": "وَأَبًّا",
+              "latin": "Wa abba",
+              "meaning": "serta rumput-rumputan"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "words": [
+            {
+              "id": "abasa-32-1",
+              "arabic": "مَّتَٰعًا",
+              "latin": "Mata'an",
+              "meaning": "untuk kesenangan"
+            },
+            {
+              "id": "abasa-32-2",
+              "arabic": "لَّكُمْ",
+              "latin": "Lakum",
+              "meaning": "bagi kamu"
+            },
+            {
+              "id": "abasa-32-3",
+              "arabic": "وَلِأَنْعَٰمِكُمْ",
+              "latin": "Wa li an'amikum",
+              "meaning": "dan bagi binatang-binatang ternakmu"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "words": [
+            {
+              "id": "abasa-33-1",
+              "arabic": "فَإِذَا",
+              "latin": "Fa izha",
+              "meaning": "Maka apabila"
+            },
+            {
+              "id": "abasa-33-2",
+              "arabic": "جَآءَتِ",
+              "latin": "Ja'ati",
+              "meaning": "datang"
+            },
+            {
+              "id": "abasa-33-3",
+              "arabic": "ٱلصَّآخَّةُ",
+              "latin": "As-sakhkhah",
+              "meaning": "suara yang memekakkan (hari kiamat)"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "words": [
+            {
+              "id": "abasa-34-1",
+              "arabic": "يَوْمَ",
+              "latin": "Yawma",
+              "meaning": "pada hari"
+            },
+            {
+              "id": "abasa-34-2",
+              "arabic": "يَفِرُّ",
+              "latin": "Yafirru",
+              "meaning": "lari"
+            },
+            {
+              "id": "abasa-34-3",
+              "arabic": "ٱلْمَرْءُ",
+              "latin": "Al-mar'u",
+              "meaning": "seseorang"
+            },
+            {
+              "id": "abasa-34-4",
+              "arabic": "مِنْ",
+              "latin": "Min",
+              "meaning": "dari"
+            },
+            {
+              "id": "abasa-34-5",
+              "arabic": "أَخِيهِ",
+              "latin": "Akhih",
+              "meaning": "saudaranya"
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "words": [
+            {
+              "id": "abasa-35-1",
+              "arabic": "وَأُمِّهِۦ",
+              "latin": "Wa ummihi",
+              "meaning": "dan ibunya"
+            },
+            {
+              "id": "abasa-35-2",
+              "arabic": "وَأَبِيهِ",
+              "latin": "Wa abih",
+              "meaning": "dan bapaknya"
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "words": [
+            {
+              "id": "abasa-36-1",
+              "arabic": "وَصَٰحِبَتِهِۦ",
+              "latin": "Wa sahibatihi",
+              "meaning": "dan istrinya"
+            },
+            {
+              "id": "abasa-36-2",
+              "arabic": "وَبَنِيهِ",
+              "latin": "Wa banih",
+              "meaning": "dan anak-anaknya"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "words": [
+            {
+              "id": "abasa-37-1",
+              "arabic": "لِكُلِّ",
+              "latin": "Likulli",
+              "meaning": "Bagi setiap"
+            },
+            {
+              "id": "abasa-37-2",
+              "arabic": "ٱمْرِئٍ",
+              "latin": "Imri'in",
+              "meaning": "orang"
+            },
+            {
+              "id": "abasa-37-3",
+              "arabic": "مِّنْهُمْ",
+              "latin": "Minhum",
+              "meaning": "dari mereka"
+            },
+            {
+              "id": "abasa-37-4",
+              "arabic": "يَوْمَئِذٍ",
+              "latin": "Yawma'idzhin",
+              "meaning": "pada hari itu"
+            },
+            {
+              "id": "abasa-37-5",
+              "arabic": "شَأْنٌ",
+              "latin": "Sha'nun",
+              "meaning": "urusan"
+            },
+            {
+              "id": "abasa-37-6",
+              "arabic": "يُغْنِيهِ",
+              "latin": "Yughnih",
+              "meaning": "yang menyibukkannya"
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "words": [
+            {
+              "id": "abasa-38-1",
+              "arabic": "وُجُوهٌ",
+              "latin": "Wujuhun",
+              "meaning": "Wajah-wajah"
+            },
+            {
+              "id": "abasa-38-2",
+              "arabic": "يَوْمَئِذٍ",
+              "latin": "Yawma'idzhin",
+              "meaning": "pada hari itu"
+            },
+            {
+              "id": "abasa-38-3",
+              "arabic": "مُّسْفِرَةٌ",
+              "latin": "Musfirah",
+              "meaning": "berseri-seri"
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "words": [
+            {
+              "id": "abasa-39-1",
+              "arabic": "ضَاحِكَةٌ",
+              "latin": "Dhahikatun",
+              "meaning": "tertawa"
+            },
+            {
+              "id": "abasa-39-2",
+              "arabic": "مُّسْتَبْشِرَةٌ",
+              "latin": "Mustabshirah",
+              "meaning": "gembira ria"
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "words": [
+            {
+              "id": "abasa-40-1",
+              "arabic": "وَوُجُوهٌ",
+              "latin": "Wa wujuhun",
+              "meaning": "Dan wajah-wajah"
+            },
+            {
+              "id": "abasa-40-2",
+              "arabic": "يَوْمَئِذٍ",
+              "latin": "Yawma'idzhin",
+              "meaning": "pada hari itu"
+            },
+            {
+              "id": "abasa-40-3",
+              "arabic": "عَلَيْهَا",
+              "latin": "'Alayha",
+              "meaning": "di atasnya/padanya"
+            },
+            {
+              "id": "abasa-40-4",
+              "arabic": "غَبَرَةٌ",
+              "latin": "Ghabarah",
+              "meaning": "debu"
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "words": [
+            {
+              "id": "abasa-41-1",
+              "arabic": "تَرْهَقُهَا",
+              "latin": "Tarhaquha",
+              "meaning": "ditutup"
+            },
+            {
+              "id": "abasa-41-2",
+              "arabic": "قَتَرَةٌ",
+              "latin": "Qatarah",
+              "meaning": "kegelapan/kehitaman"
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "words": [
+            {
+              "id": "abasa-42-1",
+              "arabic": "أُو۟لَٰٓئِكَ",
+              "latin": "Ula'ika",
+              "meaning": "Mereka"
+            },
+            {
+              "id": "abasa-42-2",
+              "arabic": "هُمُ",
+              "latin": "Humu",
+              "meaning": "itulah"
+            },
+            {
+              "id": "abasa-42-3",
+              "arabic": "ٱلْكَفَرَةُ",
+              "latin": "Al-kafaratu",
+              "meaning": "orang-orang kafir"
+            },
+            {
+              "id": "abasa-42-4",
+              "arabic": "ٱلْفَجَرَةُ",
+              "latin": "Al-fajarah",
+              "meaning": "lagi durhaka"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "at-takwir",
+      "name": "At-Takwir",
+      "nameArabic": "التكوير",
+      "meaning": "Menggulung",
+      "verses": [
+        {
+          "id": 1,
+          "words": [
+            {
+              "id": "takwir-1-1",
+              "arabic": "إِذَا",
+              "latin": "Izha",
+              "meaning": "Apabila"
+            },
+            {
+              "id": "takwir-1-2",
+              "arabic": "ٱلشَّمْسُ",
+              "latin": "Ash-shamsu",
+              "meaning": "matahari"
+            },
+            {
+              "id": "takwir-1-3",
+              "arabic": "كُوِّرَتْ",
+              "latin": "Kuwwirat",
+              "meaning": "digulung"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "words": [
+            {
+              "id": "takwir-2-1",
+              "arabic": "وَإِذَا",
+              "latin": "Wa izha",
+              "meaning": "Dan apabila"
+            },
+            {
+              "id": "takwir-2-2",
+              "arabic": "ٱلنُّجُومُ",
+              "latin": "An-nujumu",
+              "meaning": "bintang-bintang"
+            },
+            {
+              "id": "takwir-2-3",
+              "arabic": "ٱنكَدَرَتْ",
+              "latin": "Inkadarat",
+              "meaning": "berjatuhan"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "words": [
+            {
+              "id": "takwir-3-1",
+              "arabic": "وَإِذَا",
+              "latin": "Wa izha",
+              "meaning": "Dan apabila"
+            },
+            {
+              "id": "takwir-3-2",
+              "arabic": "ٱلْجِبَالُ",
+              "latin": "Al-jibalu",
+              "meaning": "gunung-gunung"
+            },
+            {
+              "id": "takwir-3-3",
+              "arabic": "سُيِّرَتْ",
+              "latin": "Suyyirat",
+              "meaning": "dijalankan"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "words": [
+            {
+              "id": "takwir-4-1",
+              "arabic": "وَإِذَا",
+              "latin": "Wa izha",
+              "meaning": "Dan apabila"
+            },
+            {
+              "id": "takwir-4-2",
+              "arabic": "ٱلْعِشَارُ",
+              "latin": "Al-'isharu",
+              "meaning": "unta-unta bunting"
+            },
+            {
+              "id": "takwir-4-3",
+              "arabic": "عُطِّلَتْ",
+              "latin": "'Uttilat",
+              "meaning": "dibiarkan"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "words": [
+            {
+              "id": "takwir-5-1",
+              "arabic": "وَإِذَا",
+              "latin": "Wa izha",
+              "meaning": "Dan apabila"
+            },
+            {
+              "id": "takwir-5-2",
+              "arabic": "ٱلْوُحُوشُ",
+              "latin": "Al-wuhushu",
+              "meaning": "binatang-binatang liar"
+            },
+            {
+              "id": "takwir-5-3",
+              "arabic": "حُشِرَتْ",
+              "latin": "Hushirat",
+              "meaning": "dikumpulkan"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "words": [
+            {
+              "id": "takwir-6-1",
+              "arabic": "وَإِذَا",
+              "latin": "Wa izha",
+              "meaning": "Dan apabila"
+            },
+            {
+              "id": "takwir-6-2",
+              "arabic": "ٱلْبِحَارُ",
+              "latin": "Al-biharu",
+              "meaning": "lautan"
+            },
+            {
+              "id": "takwir-6-3",
+              "arabic": "سُجِّرَتْ",
+              "latin": "Sujjirat",
+              "meaning": "dipanaskan"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "words": [
+            {
+              "id": "takwir-7-1",
+              "arabic": "وَإِذَا",
+              "latin": "Wa izha",
+              "meaning": "Dan apabila"
+            },
+            {
+              "id": "takwir-7-2",
+              "arabic": "ٱلنُّفُوسُ",
+              "latin": "An-nufusu",
+              "meaning": "roh-roh"
+            },
+            {
+              "id": "takwir-7-3",
+              "arabic": "زُوِّجَتْ",
+              "latin": "Zuwwijat",
+              "meaning": "dipertemukan"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "words": [
+            {
+              "id": "takwir-8-1",
+              "arabic": "وَإِذَا",
+              "latin": "Wa izha",
+              "meaning": "Dan apabila"
+            },
+            {
+              "id": "takwir-8-2",
+              "arabic": "ٱلْمَوْءُۥدَةُ",
+              "latin": "Al-maw'udatu",
+              "meaning": "bayi perempuan yang dikubur hidup-hidup"
+            },
+            {
+              "id": "takwir-8-3",
+              "arabic": "سُئِلَتْ",
+              "latin": "Su'ilat",
+              "meaning": "ditanya"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "words": [
+            {
+              "id": "takwir-9-1",
+              "arabic": "بِأَىِّ",
+              "latin": "Bi ayyi",
+              "meaning": "karena apa"
+            },
+            {
+              "id": "takwir-9-2",
+              "arabic": "ذَنۢبٍ",
+              "latin": "Dhambin",
+              "meaning": "dosa"
+            },
+            {
+              "id": "takwir-9-3",
+              "arabic": "قُتِلَتْ",
+              "latin": "Qutilat",
+              "meaning": "dia dibunuh"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "words": [
+            {
+              "id": "takwir-10-1",
+              "arabic": "وَإِذَا",
+              "latin": "Wa izha",
+              "meaning": "Dan apabila"
+            },
+            {
+              "id": "takwir-10-2",
+              "arabic": "ٱلصُّحُفُ",
+              "latin": "Ash-shuhufu",
+              "meaning": "catatan-catatan (amal)"
+            },
+            {
+              "id": "takwir-10-3",
+              "arabic": "نُشِرَتْ",
+              "latin": "Nushirat",
+              "meaning": "dibuka"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "words": [
+            {
+              "id": "takwir-11-1",
+              "arabic": "وَإِذَا",
+              "latin": "Wa izha",
+              "meaning": "Dan apabila"
+            },
+            {
+              "id": "takwir-11-2",
+              "arabic": "ٱلسَّمَآءُ",
+              "latin": "As-sama'u",
+              "meaning": "langit"
+            },
+            {
+              "id": "takwir-11-3",
+              "arabic": "كُشِطَتْ",
+              "latin": "Kushitat",
+              "meaning": "dilenyapkan"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "words": [
+            {
+              "id": "takwir-12-1",
+              "arabic": "وَإِذَا",
+              "latin": "Wa izha",
+              "meaning": "Dan apabila"
+            },
+            {
+              "id": "takwir-12-2",
+              "arabic": "ٱلْجَحِيمُ",
+              "latin": "Al-jahimu",
+              "meaning": "neraka Jahim"
+            },
+            {
+              "id": "takwir-12-3",
+              "arabic": "سُعِّرَتْ",
+              "latin": "Su''irat",
+              "meaning": "dinyalakan"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "words": [
+            {
+              "id": "takwir-13-1",
+              "arabic": "وَإِذَا",
+              "latin": "Wa izha",
+              "meaning": "Dan apabila"
+            },
+            {
+              "id": "takwir-13-2",
+              "arabic": "ٱلْجَنَّةُ",
+              "latin": "Al-jannatu",
+              "meaning": "surga"
+            },
+            {
+              "id": "takwir-13-3",
+              "arabic": "أُزْلِفَتْ",
+              "latin": "Uzlifat",
+              "meaning": "didekatkan"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "words": [
+            {
+              "id": "takwir-14-1",
+              "arabic": "عَلِمَتْ",
+              "latin": "'Alimat",
+              "meaning": "mengetahui"
+            },
+            {
+              "id": "takwir-14-2",
+              "arabic": "نَفْسٌ",
+              "latin": "Nafsun",
+              "meaning": "tiap-tiap jiwa"
+            },
+            {
+              "id": "takwir-14-3",
+              "arabic": "مَّآ",
+              "latin": "Ma",
+              "meaning": "apa yang"
+            },
+            {
+              "id": "takwir-14-4",
+              "arabic": "أَحْضَرَتْ",
+              "latin": "Ahdharat",
+              "meaning": "telah dikerjakannya"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "words": [
+            {
+              "id": "takwir-15-1",
+              "arabic": "فَلَآ",
+              "latin": "Fala",
+              "meaning": "Maka aku"
+            },
+            {
+              "id": "takwir-15-2",
+              "arabic": "أُقْسِمُ",
+              "latin": "Uqsimu",
+              "meaning": "bersumpah"
+            },
+            {
+              "id": "takwir-15-3",
+              "arabic": "بِٱلْخُنَّسِ",
+              "latin": "Bil-khunnas",
+              "meaning": "demi bintang-bintang"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "words": [
+            {
+              "id": "takwir-16-1",
+              "arabic": "ٱلْجَوَارِ",
+              "latin": "Al-jawari",
+              "meaning": "yang beredar"
+            },
+            {
+              "id": "takwir-16-2",
+              "arabic": "ٱلْكُنَّسِ",
+              "latin": "Al-kunnas",
+              "meaning": "terbenam"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "words": [
+            {
+              "id": "takwir-17-1",
+              "arabic": "وَٱلَّيْلِ",
+              "latin": "Wal-layli",
+              "meaning": "Dan demi malam"
+            },
+            {
+              "id": "takwir-17-2",
+              "arabic": "إِذَا",
+              "latin": "Izha",
+              "meaning": "apabila"
+            },
+            {
+              "id": "takwir-17-3",
+              "arabic": "عَسْعَسَ",
+              "latin": "'As'asa",
+              "meaning": "hampir meninggalkan gelapnya"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "words": [
+            {
+              "id": "takwir-18-1",
+              "arabic": "وَٱلصُّبْحِ",
+              "latin": "Was-subhi",
+              "meaning": "Dan demi subuh"
+            },
+            {
+              "id": "takwir-18-2",
+              "arabic": "إِذَا",
+              "latin": "Izha",
+              "meaning": "apabila"
+            },
+            {
+              "id": "takwir-18-3",
+              "arabic": "تَنَفَّسَ",
+              "latin": "Tanaffasa",
+              "meaning": "fajarnya mulai menyingsing"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "words": [
+            {
+              "id": "takwir-19-1",
+              "arabic": "إِنَّهُۥ",
+              "latin": "Innahu",
+              "meaning": "Sesungguhnya dia (Al Quran)"
+            },
+            {
+              "id": "takwir-19-2",
+              "arabic": "لَقَوْلُ",
+              "latin": "Laqawlu",
+              "meaning": "benar-benar firman"
+            },
+            {
+              "id": "takwir-19-3",
+              "arabic": "رَسُولٍ",
+              "latin": "Rasulin",
+              "meaning": "utusan"
+            },
+            {
+              "id": "takwir-19-4",
+              "arabic": "كَرِيمٍ",
+              "latin": "Karim",
+              "meaning": "yang mulia"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "words": [
+            {
+              "id": "takwir-20-1",
+              "arabic": "ذِى",
+              "latin": "Zhi",
+              "meaning": "mempunyai"
+            },
+            {
+              "id": "takwir-20-2",
+              "arabic": "قُوَّةٍ",
+              "latin": "Quwwatin",
+              "meaning": "kekuatan"
+            },
+            {
+              "id": "takwir-20-3",
+              "arabic": "عِندَ",
+              "latin": "'Inda",
+              "meaning": "di sisi"
+            },
+            {
+              "id": "takwir-20-4",
+              "arabic": "ذِى",
+              "latin": "Zhi",
+              "meaning": "Pemilik"
+            },
+            {
+              "id": "takwir-20-5",
+              "arabic": "ٱلْعَرْشِ",
+              "latin": "Al-'arshi",
+              "meaning": "Arsy"
+            },
+            {
+              "id": "takwir-20-6",
+              "arabic": "مَكِينٍ",
+              "latin": "Makin",
+              "meaning": "kedudukan tinggi"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "words": [
+            {
+              "id": "takwir-21-1",
+              "arabic": "مُّطَاعٍ",
+              "latin": "Muta'in",
+              "meaning": "yang ditaati"
+            },
+            {
+              "id": "takwir-21-2",
+              "arabic": "ثَمَّ",
+              "latin": "Thamma",
+              "meaning": "di sana (alam malaikat)"
+            },
+            {
+              "id": "takwir-21-3",
+              "arabic": "أَمِينٍ",
+              "latin": "Amin",
+              "meaning": "dipercaya"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "words": [
+            {
+              "id": "takwir-22-1",
+              "arabic": "وَمَا",
+              "latin": "Wa ma",
+              "meaning": "Dan tidaklah"
+            },
+            {
+              "id": "takwir-22-2",
+              "arabic": "صَاحِبُكُم",
+              "latin": "Sahibukum",
+              "meaning": "teman kalian (Muhammad)"
+            },
+            {
+              "id": "takwir-22-3",
+              "arabic": "بِمَجْنُونٍ",
+              "latin": "Bimajnun",
+              "meaning": "orang gila"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "words": [
+            {
+              "id": "takwir-23-1",
+              "arabic": "وَلَقَدْ",
+              "latin": "Wa laqad",
+              "meaning": "Dan sesungguhnya"
+            },
+            {
+              "id": "takwir-23-2",
+              "arabic": "رَءَاهُ",
+              "latin": "Ra'ahu",
+              "meaning": "dia melihatnya (Jibril)"
+            },
+            {
+              "id": "takwir-23-3",
+              "arabic": "بِٱلْأُفُقِ",
+              "latin": "Bil-ufuqi",
+              "meaning": "di ufuk"
+            },
+            {
+              "id": "takwir-23-4",
+              "arabic": "ٱلْمُبِينِ",
+              "latin": "Al-mubin",
+              "meaning": "yang terang"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "words": [
+            {
+              "id": "takwir-24-1",
+              "arabic": "وَمَا",
+              "latin": "Wa ma",
+              "meaning": "Dan tidaklah"
+            },
+            {
+              "id": "takwir-24-2",
+              "arabic": "هُوَ",
+              "latin": "Huwa",
+              "meaning": "dia"
+            },
+            {
+              "id": "takwir-24-3",
+              "arabic": "عَلَى",
+              "latin": "'Ala",
+              "meaning": "terhadap"
+            },
+            {
+              "id": "takwir-24-4",
+              "arabic": "ٱلْغَيْبِ",
+              "latin": "Al-ghaybi",
+              "meaning": "yang gaib"
+            },
+            {
+              "id": "takwir-24-5",
+              "arabic": "بِضَنِينٍ",
+              "latin": "Bidhanin",
+              "meaning": "kikir (untuk menerangkan)"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "words": [
+            {
+              "id": "takwir-25-1",
+              "arabic": "وَمَا",
+              "latin": "Wa ma",
+              "meaning": "Dan tidaklah"
+            },
+            {
+              "id": "takwir-25-2",
+              "arabic": "هُوَ",
+              "latin": "Huwa",
+              "meaning": "Al Quran itu"
+            },
+            {
+              "id": "takwir-25-3",
+              "arabic": "بِقَوْلِ",
+              "latin": "Biqawli",
+              "meaning": "perkataan"
+            },
+            {
+              "id": "takwir-25-4",
+              "arabic": "شَيْطَٰنٍ",
+              "latin": "Shaytanin",
+              "meaning": "setan"
+            },
+            {
+              "id": "takwir-25-5",
+              "arabic": "رَّجِيمٍ",
+              "latin": "Rajim",
+              "meaning": "yang terkutuk"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "words": [
+            {
+              "id": "takwir-26-1",
+              "arabic": "فَأَيْنَ",
+              "latin": "Fa ayna",
+              "meaning": "Maka ke manakah"
+            },
+            {
+              "id": "takwir-26-2",
+              "arabic": "تَذْهَبُونَ",
+              "latin": "Tazhhabun",
+              "meaning": "kamu akan pergi?"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "words": [
+            {
+              "id": "takwir-27-1",
+              "arabic": "إِنْ",
+              "latin": "In",
+              "meaning": "Tidaklah"
+            },
+            {
+              "id": "takwir-27-2",
+              "arabic": "هُوَ",
+              "latin": "Huwa",
+              "meaning": "dia"
+            },
+            {
+              "id": "takwir-27-3",
+              "arabic": "إِلَّا",
+              "latin": "Illa",
+              "meaning": "kecuali"
+            },
+            {
+              "id": "takwir-27-4",
+              "arabic": "ذِكْرٌ",
+              "latin": "Zhikrun",
+              "meaning": "peringatan"
+            },
+            {
+              "id": "takwir-27-5",
+              "arabic": "لِّلْعَٰلَمِينَ",
+              "latin": "Lil-'alamin",
+              "meaning": "bagi semesta alam"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "words": [
+            {
+              "id": "takwir-28-1",
+              "arabic": "لِمَن",
+              "latin": "Liman",
+              "meaning": "Yaitu bagi siapa"
+            },
+            {
+              "id": "takwir-28-2",
+              "arabic": "شَآءَ",
+              "latin": "Sha'a",
+              "meaning": "yang menghendaki"
+            },
+            {
+              "id": "takwir-28-3",
+              "arabic": "مِنكُمْ",
+              "latin": "Minkum",
+              "meaning": "di antara kamu"
+            },
+            {
+              "id": "takwir-28-4",
+              "arabic": "أَن",
+              "latin": "An",
+              "meaning": "untuk"
+            },
+            {
+              "id": "takwir-28-5",
+              "arabic": "يَسْتَقِيمَ",
+              "latin": "Yastaqima",
+              "meaning": "menempuh jalan yang lurus"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "words": [
+            {
+              "id": "takwir-29-1",
+              "arabic": "وَمَا",
+              "latin": "Wa ma",
+              "meaning": "Dan tidaklah"
+            },
+            {
+              "id": "takwir-29-2",
+              "arabic": "تَشَآءُونَ",
+              "latin": "Tasha'una",
+              "meaning": "kamu menghendaki"
+            },
+            {
+              "id": "takwir-29-3",
+              "arabic": "إِلَّآ",
+              "latin": "Illa",
+              "meaning": "kecuali"
+            },
+            {
+              "id": "takwir-29-4",
+              "arabic": "أَن",
+              "latin": "An",
+              "meaning": "bahwa"
+            },
+            {
+              "id": "takwir-29-5",
+              "arabic": "يَشَآءَ",
+              "latin": "Yasha'a",
+              "meaning": "dikehendaki"
+            },
+            {
+              "id": "takwir-29-6",
+              "arabic": "ٱللَّهُ",
+              "latin": "Allahu",
+              "meaning": "Allah"
+            },
+            {
+              "id": "takwir-29-7",
+              "arabic": "رَبُّ",
+              "latin": "Rabbu",
+              "meaning": "Tuhan"
+            },
+            {
+              "id": "takwir-29-8",
+              "arabic": "ٱلْعَٰلَمِينَ",
+              "latin": "Al-'alamin",
+              "meaning": "semesta alam"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "al-infitar",
       "name": "Al-Infiṭār",
