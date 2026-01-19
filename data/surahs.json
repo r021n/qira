@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "surahs": [
     {
       "id": "an-naba",
@@ -16767,7 +16767,7 @@
     },
     {
       "id": "an-nas",
-      "name": "An-Nas",
+      "name": "An-Nās",
       "nameArabic": "الناس",
       "meaning": "Manusia",
       "verses": [
@@ -16777,25 +16777,25 @@
             {
               "id": "nas-1-1",
               "arabic": "قُلْ",
-              "latin": "Qul",
-              "meaning": "Katakanlah"
+              "latin": "qul",
+              "meaning": "katakanlah"
             },
             {
               "id": "nas-1-2",
-              "arabic": "أَعُوذُ",
-              "latin": "A'uzhu",
-              "meaning": "Aku berlindung"
+              "arabic": "اَعُوْذُ",
+              "latin": "aʿūdhu",
+              "meaning": "aku berlindung"
             },
             {
               "id": "nas-1-3",
               "arabic": "بِرَبِّ",
-              "latin": "Birabbi",
-              "meaning": "kepada Tuhannya"
+              "latin": "birabbi",
+              "meaning": "tuhannya"
             },
             {
               "id": "nas-1-4",
-              "arabic": "ٱلنَّاسِ",
-              "latin": "An-nas",
+              "arabic": "النَّاسِ",
+              "latin": "l-nāsi",
               "meaning": "manusia"
             }
           ]
@@ -16806,13 +16806,13 @@
             {
               "id": "nas-2-1",
               "arabic": "مَلِكِ",
-              "latin": "Maliki",
-              "meaning": "Raja"
+              "latin": "maliki",
+              "meaning": "raja/penguasa"
             },
             {
               "id": "nas-2-2",
-              "arabic": "ٱلنَّاسِ",
-              "latin": "An-nas",
+              "arabic": "النَّاسِ",
+              "latin": "l-nāsi",
               "meaning": "manusia"
             }
           ]
@@ -16822,14 +16822,14 @@
           "words": [
             {
               "id": "nas-3-1",
-              "arabic": "إِلَٰهِ",
-              "latin": "Ilahi",
-              "meaning": "Sembahan"
+              "arabic": "اِلٰهِ",
+              "latin": "ilāhi",
+              "meaning": "tuhan yang disembah"
             },
             {
               "id": "nas-3-2",
-              "arabic": "ٱلنَّاسِ",
-              "latin": "An-nas",
+              "arabic": "النَّاسِ",
+              "latin": "l-nāsi",
               "meaning": "manusia"
             }
           ]
@@ -16839,26 +16839,26 @@
           "words": [
             {
               "id": "nas-4-1",
-              "arabic": "مِن",
-              "latin": "Min",
-              "meaning": "Dari"
+              "arabic": "مِنْ",
+              "latin": "min",
+              "meaning": "dari"
             },
             {
               "id": "nas-4-2",
               "arabic": "شَرِّ",
-              "latin": "Sharri",
+              "latin": "sharri",
               "meaning": "kejahatan"
             },
             {
               "id": "nas-4-3",
-              "arabic": "ٱلْوَسْوَاسِ",
-              "latin": "Al-waswasi",
+              "arabic": "الْوَسْوَاسِ",
+              "latin": "l-waswāsi",
               "meaning": "bisikan setan"
             },
             {
               "id": "nas-4-4",
-              "arabic": "ٱلْخَنَّاسِ",
-              "latin": "Al-khannas",
+              "arabic": "الْخَنَّاسِ",
+              "latin": "l-khanāsi",
               "meaning": "yang bersembunyi"
             }
           ]
@@ -16868,32 +16868,32 @@
           "words": [
             {
               "id": "nas-5-1",
-              "arabic": "ٱلَّذِي",
-              "latin": "Allazhi",
+              "arabic": "الَّذِيْ",
+              "latin": "alladhī",
               "meaning": "yang"
             },
             {
               "id": "nas-5-2",
               "arabic": "يُوَسْوِسُ",
-              "latin": "Yuwaswisu",
+              "latin": "yuwaswisu",
               "meaning": "membisikkan"
             },
             {
               "id": "nas-5-3",
-              "arabic": "فِي",
-              "latin": "Fi",
-              "meaning": "ke dalam"
+              "arabic": "فِيْ",
+              "latin": "fī",
+              "meaning": "di dalam"
             },
             {
               "id": "nas-5-4",
-              "arabic": "صُدُورِ",
-              "latin": "Suduri",
-              "meaning": "dada"
+              "arabic": "صُدُوْرِ",
+              "latin": "ṣudūri",
+              "meaning": "hati/dada"
             },
             {
               "id": "nas-5-5",
-              "arabic": "ٱلنَّاسِ",
-              "latin": "An-nas",
+              "arabic": "النَّاسِ",
+              "latin": "l-nāsi",
               "meaning": "manusia"
             }
           ]
@@ -16904,19 +16904,19 @@
             {
               "id": "nas-6-1",
               "arabic": "مِنَ",
-              "latin": "Mina",
+              "latin": "mina",
               "meaning": "dari"
             },
             {
               "id": "nas-6-2",
-              "arabic": "ٱلْجِنَّةِ",
-              "latin": "Al-jinnati",
-              "meaning": "golongan jin"
+              "arabic": "الْجِنَّةِ",
+              "latin": "l-jinati",
+              "meaning": "bangsa jin"
             },
             {
               "id": "nas-6-3",
-              "arabic": "وَٱلنَّاسِ",
-              "latin": "Wan-nas",
+              "arabic": "وَالنَّاسِ",
+              "latin": "wan-nāsi",
               "meaning": "dan manusia"
             }
           ]
